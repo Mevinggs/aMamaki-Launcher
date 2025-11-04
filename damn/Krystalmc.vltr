@@ -44,7 +44,7 @@
       {
         "AirPlace": {
           "Range": 5.0,
-          "Render": "better.tree.setting.impl.SettingGroup@ba15b",
+          "Render": "better.tree.setting.impl.SettingGroup@42a5bf73",
           "Swing": true,
           "Fill Color": [
             845427455,
@@ -211,7 +211,7 @@
       },
       {
         "AntiCheatDetector": {
-          "Flags": "better.tree.setting.impl.SettingGroup@1211fca6",
+          "Flags": "better.tree.setting.impl.SettingGroup@4f53e0aa",
           "Speed": true,
           "Reach": true,
           "Timer": true,
@@ -264,7 +264,7 @@
             false
           ],
           "Drawn": true,
-          "Enabled": true
+          "Enabled": false
         }
       },
       {
@@ -415,7 +415,7 @@
           "IgnoreColorTeam": false,
           "MaxCPS": 12,
           "ESP": "Swastyka",
-          "ESPSettings": "better.tree.setting.impl.SettingGroup@6be2bb0b",
+          "ESPSettings": "better.tree.setting.impl.SettingGroup@86ee129",
           "ESPLength": 14,
           "ESPFactor": 8,
           "ESPScale": 0.12,
@@ -426,7 +426,7 @@
           "Sort": "LowestDistance",
           "LockTarget": true,
           "ElytraTarget": true,
-          "Advanced": "better.tree.setting.impl.SettingGroup@16ff19a4",
+          "Advanced": "better.tree.setting.impl.SettingGroup@1c8a83f5",
           "AimRange": 30.0,
           "RandomHitDelay": false,
           "PauseInInventory": true,
@@ -452,7 +452,7 @@
           "AttackTickLimit": 11,
           "CritFallDistance": 0.0,
           "TargetDistance": 30.0,
-          "Targets": "better.tree.setting.impl.SettingGroup@4b237359",
+          "Targets": "better.tree.setting.impl.SettingGroup@733be930",
           "Players": true,
           "Mobs": true,
           "Animals": true,
@@ -664,7 +664,7 @@
           "IDAttacks": 3,
           "IDPredictOnlyDuels": false,
           "TargetESP": "Thunderhack",
-          "ESPSettings": "better.tree.setting.impl.SettingGroup@56ca4257",
+          "ESPSettings": "better.tree.setting.impl.SettingGroup@233d014d",
           "ESPLength": 14,
           "ESPFactor": 8,
           "ESPShaking": 1.8,
@@ -822,7 +822,7 @@
           "AutoDisable": true,
           "InstantLeave": true,
           "Command": "hub",
-          "Leave if": "better.tree.setting.impl.SettingGroup@280e9166",
+          "Leave if": "better.tree.setting.impl.SettingGroup@5ca5cbaa",
           "LowHp": false,
           "Totems": false,
           "TotemsCount": 2,
@@ -949,7 +949,7 @@
           "CalcAbsorption": true,
           "StopMotion": false,
           "ResetAttackCooldown": false,
-          "Safety": "better.tree.setting.impl.SettingGroup@46528ffa",
+          "Safety": "better.tree.setting.impl.SettingGroup@14f86ee0",
           "HotbarFallback": false,
           "FallBackCalc": true,
           "OnElytra": true,
@@ -994,7 +994,7 @@
           "BlocksSelect": [
             "obsidian"
           ],
-          "Pause": "better.tree.setting.impl.SettingGroup@16bb95d2",
+          "Pause": "better.tree.setting.impl.SettingGroup@38267726",
           "On Eat": false,
           "On Break": false,
           "Render": true,
@@ -1038,12 +1038,12 @@
           "Interact": "Strict",
           "PlaceMode": "Normal",
           "Rotate": "None",
-          "Selection": "better.tree.setting.impl.SettingGroup@1267a5a8",
+          "Selection": "better.tree.setting.impl.SettingGroup@73da3e06",
           "Head": true,
           "Leggs": true,
           "Surround": true,
           "UpperSurround": false,
-          "Render": "better.tree.setting.impl.SettingGroup@4e3e9323",
+          "Render": "better.tree.setting.impl.SettingGroup@1d0534c",
           "Render Mode": "Fade",
           "Render Fill Color": [
             -6974059,
@@ -1207,7 +1207,7 @@
           "AllowShift": true,
           "Speed": 2.0,
           "YSpeed": 1.0,
-          "Advanced": "better.tree.setting.impl.SettingGroup@1c41e841",
+          "Advanced": "better.tree.setting.impl.SettingGroup@5688a2f8",
           "GlideSpeed": 0.0,
           "ClickSlot": false,
           "Limit": true,
@@ -1674,7 +1674,7 @@
             -497239880,
             false
           ],
-          "Box": "better.tree.setting.impl.SettingGroup@561efb1e",
+          "Box": "better.tree.setting.impl.SettingGroup@5d9c7048",
           "Mode": "Box",
           "Players": true,
           "Friends": true,
@@ -1687,7 +1687,7 @@
           "ColorMode": "SyncColor",
           "renderHealth": true,
           "TeamESP": false,
-          "BoxColors": "better.tree.setting.impl.SettingGroup@79fb5e90",
+          "BoxColors": "better.tree.setting.impl.SettingGroup@7f144ff3",
           "PlayersC": [
             -16722689,
             false
@@ -1906,7 +1906,7 @@
             false
           ],
           "Drawn": true,
-          "Enabled": true
+          "Enabled": false
         }
       },
       {
@@ -2159,7 +2159,7 @@
           "Search FOV": 360,
           "Use Timer": false,
           "Timer Value": 1.0,
-          "Auto Disable": "better.tree.setting.impl.SettingGroup@43e66d07",
+          "Auto Disable": "better.tree.setting.impl.SettingGroup@7c5d396e",
           "On Death": true,
           "In Hole": true,
           "No Holes": false,
@@ -2209,7 +2209,7 @@
           "HudStyle": "Glowing",
           "Sticky": true,
           "ArrowsStyle": "New",
-          "Theme": "Sunset",
+          "Theme": "Coldberry",
           "ColorSpeed": 18,
           "Light": true,
           "Color": [
@@ -2924,7 +2924,7 @@
         "NoSlow": {
           "Mode": "NCP",
           "MainHand": true,
-          "Selection": "better.tree.setting.impl.SettingGroup@50f686da",
+          "Selection": "better.tree.setting.impl.SettingGroup@6fd1cb7f",
           "Food": true,
           "Projectiles": true,
           "Shield": true,
@@ -3397,7 +3397,7 @@
           "Break Mode": "Normal",
           "Anti Weakness": false,
           "BlocksSelect": [],
-          "Pause": "better.tree.setting.impl.SettingGroup@52bd8ead",
+          "Pause": "better.tree.setting.impl.SettingGroup@c475ee7",
           "On Eat": false,
           "On Break": false,
           "Render": true,
@@ -3422,7 +3422,7 @@
       },
       {
         "Shaders": {
-          "Select": "better.tree.setting.impl.SettingGroup@22434fa8",
+          "Select": "better.tree.setting.impl.SettingGroup@19449048",
           "Hands": true,
           "Players": true,
           "Self": true,
@@ -3443,7 +3443,7 @@
           "SmokeOctaves": 10,
           "FillAlpha": 170,
           "SmokeGlow": true,
-          "Colors": "better.tree.setting.impl.SettingGroup@4667cd6c",
+          "Colors": "better.tree.setting.impl.SettingGroup@782f2a2c",
           "Outline": [
             -2013200640,
             false
@@ -3559,7 +3559,7 @@
           "BreakAttempts": 10,
           "Pause On Eat": false,
           "ClientRemove": true,
-          "Packets": "better.tree.setting.impl.SettingGroup@3d8393b8",
+          "Packets": "better.tree.setting.impl.SettingGroup@264783d4",
           "Stop": true,
           "Abort": true,
           "Start": true,
@@ -3756,7 +3756,7 @@
           "Blocks/Place": 8,
           "Delay/Place": 3,
           "Center": "Disabled",
-          "Auto Disable": "better.tree.setting.impl.SettingGroup@375ba43",
+          "Auto Disable": "better.tree.setting.impl.SettingGroup@1041519d",
           "On Y Change": true,
           "On Tp": "None",
           "On Death": false,
@@ -3772,7 +3772,7 @@
           "Break Mode": "Normal",
           "Anti Weakness": false,
           "BlocksSelect": [],
-          "Pause": "better.tree.setting.impl.SettingGroup@3bf38b8a",
+          "Pause": "better.tree.setting.impl.SettingGroup@2dba550d",
           "On Eat": false,
           "On Break": false,
           "Render": true,
@@ -4028,7 +4028,7 @@
             false
           ],
           "BedWarsMode": false,
-          "Targets": "better.tree.setting.impl.SettingGroup@43873d35",
+          "Targets": "better.tree.setting.impl.SettingGroup@2c4574dc",
           "Players": true,
           "Mobs": true,
           "Animals": false,
@@ -4219,35 +4219,35 @@
       {
         "ViewModel": {
           "SyncHands": true,
-          "MainHand": "better.tree.setting.impl.SettingGroup@62b868ae",
+          "MainHand": "better.tree.setting.impl.SettingGroup@36060ba3",
           "positionMainX": 0.0,
           "positionMainY": 0.0,
           "positionMainZ": -0.15,
           "ScaleMain": 1.0,
-          "Rotation": "better.tree.setting.impl.SettingGroup@4cb17118",
+          "Rotation": "better.tree.setting.impl.SettingGroup@2c517947",
           "rotationMainX": 0.0,
           "rotationMainY": 0.0,
           "rotationMainZ": 0.0,
-          "Animate": "better.tree.setting.impl.SettingGroup@6b390cdf",
+          "Animate": "better.tree.setting.impl.SettingGroup@533c43fd",
           "animateMainX": false,
           "animateMainY": false,
           "animateMainZ": false,
           "speedAnimateMain": 1.0,
-          "OffHand": "better.tree.setting.impl.SettingGroup@11adfa18",
+          "OffHand": "better.tree.setting.impl.SettingGroup@54d82ed2",
           "positionOffX": 0.0,
           "positionOffY": 0.0,
           "positionOffZ": -0.15,
           "ScaleOff": 1.0,
-          "RotationOff": "better.tree.setting.impl.SettingGroup@30710d9b",
+          "RotationOff": "better.tree.setting.impl.SettingGroup@52857cf9",
           "rotationOffX": 0.0,
           "rotationOffY": 0.0,
           "rotationOffZ": 0.0,
-          "AnimateOff": "better.tree.setting.impl.SettingGroup@778f933c",
+          "AnimateOff": "better.tree.setting.impl.SettingGroup@7539bcaf",
           "animateOffX": false,
           "animateOffY": false,
           "animateOffZ": false,
           "speedAnimateOff": 1.0,
-          "Eat": "better.tree.setting.impl.SettingGroup@547336e6",
+          "Eat": "better.tree.setting.impl.SettingGroup@442b2a5e",
           "EatX": 1.0,
           "EatY": 1.0,
           "Keybind": [
@@ -4275,8 +4275,8 @@
       },
       {
         "WaterMark": {
-          "Mode": "New",
-          "Background": true,
+          "Mode": "Big",
+          "Background": false,
           "Background Color": [
             1677721600,
             false
@@ -4291,8 +4291,8 @@
           ],
           "Random Text": false,
           "Position": [
-            0.017707398,
-            0.013833161
+            0.0013035943,
+            0.008470474
           ],
           "Keybind": [
             -1,
