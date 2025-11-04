@@ -1,3 +1,3 @@
-PolarAc:15.54:Mevinggs
-ClearMc:16.15:Mevinggs
-ClearMc2:16.15:Mevinggs
+PolarAc:4.11.15:54.25r:Mevinggs
+ClearMc:4.11.16:15.25r:Mevinggs
+ClearMc2:4.11.16:15.25r:Mevinggs
