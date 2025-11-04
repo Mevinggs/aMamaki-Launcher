@@ -1906,7 +1906,7 @@
             false
           ],
           "Drawn": true,
-          "Enabled": false
+          "Enabled": true
         }
       },
       {
@@ -2676,7 +2676,7 @@
             false
           ],
           "Drawn": true,
-          "Enabled": false
+          "Enabled": true
         }
       },
       {
@@ -2828,7 +2828,7 @@
             false
           ],
           "Drawn": true,
-          "Enabled": false
+          "Enabled": true
         }
       },
       {
@@ -3967,7 +3967,7 @@
       },
       {
         "TotemAnimation": {
-          "Mode": "FadeOut",
+          "Mode": "Bounce",
           "Speed": 40,
           "Keybind": [
             -1,
