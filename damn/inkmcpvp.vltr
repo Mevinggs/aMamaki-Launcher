@@ -1,0 +1,7251 @@
+[
+  {
+    "Modules": [
+      {
+        "2DCompanion": {
+          "Scale": 20,
+          "Mode": "Baltika",
+          "Position": [
+            0.745718,
+            0.6016078
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ACDetector": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AimBot": {
+          "Mode": "AimAssist",
+          "Rotation": "Client",
+          "Range": 3.1,
+          "AimStrength": 100,
+          "AimSmooth": 180,
+          "AimTime": 1,
+          "IgnoreWalls": true,
+          "IgnoreTeam": true,
+          "ReactionTime": 80,
+          "IgnoreInvis": true,
+          "PredictTicks": 0,
+          "GhostBullet": false,
+          "Render3d": false,
+          "AimOffset": 0.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AirPlace": {
+          "Range": 5.0,
+          "Render": "better.tree.setting.impl.SettingGroup@4d4376c9",
+          "Swing": true,
+          "Fill Color": [
+            845427455,
+            false
+          ],
+          "Line Color": [
+            -1771818241,
+            false
+          ],
+          "Line Width": 2,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AirStuck": {
+          "FreezeRotation": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AkrienRadar": {
+          "Glow": false,
+          "Height": 2.28,
+          "Down": 3.63,
+          "Width": 0.44,
+          "TracerRadius": 68,
+          "PitchLock": 42,
+          "TracerCMode": "Astolfo",
+          "CompassRadius": 47.0,
+          "Circle": [
+            -1,
+            false
+          ],
+          "Friend": [
+            -16717824,
+            false
+          ],
+          "Tracer": [
+            -256,
+            false
+          ],
+          "Position": [
+            0.4953125,
+            0.8801775
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Animations": {
+          "OnlyAura": false,
+          "AnimationSpam": false,
+          "DisableSwapMain": true,
+          "DisableSwapOff": true,
+          "Mode": "Ten",
+          "SlowAnimation": true,
+          "SlowValue": 8,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "AntiAFK": {
+          "Mode": "Simple",
+          "OnlyWhenAFK": false,
+          "Command": false,
+          "Move": false,
+          "Spin": true,
+          "RotateSpeed": 5.0,
+          "Jump": false,
+          "Swing": false,
+          "AlwaysSneak": false,
+          "Radius": 64,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AntiAim": {
+          "PitchMode": "None",
+          "YawMode": "None",
+          "Speed": 1,
+          "YawDelta": 60,
+          "PitchDelta": 10,
+          "YawOffset": 0,
+          "BodySync": true,
+          "AllowInteract": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AntiAttack": {
+          "Friend": false,
+          "Zoglin": false,
+          "Villager": false,
+          "OneHp": false,
+          "Hp": 1.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "AntiBadEffects": {
+          "Blindness": true,
+          "Nausea": true,
+          "MiningFatigue": true,
+          "Levitation": true,
+          "Slowness": true,
+          "JumpBoost": true,
+          "Warden Darkness": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "AntiBot": {
+          "Remove": false,
+          "OnlyAura": true,
+          "Mode": "UUIDCheck",
+          "checkTicks": 3,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AntiCrash": {
+          "Debug": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AntiHunger": {
+          "CancelGround": true,
+          "CancelSprint": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AntiLegitMiss": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AntiServerRP": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AntiTooManyPacket": {
+          "MaxPacketsPerTick": 10,
+          "Debug": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AntiTrap": {
+          "TnTMinecarts": true,
+          "ChestMinecarts": true,
+          "ArmorStands": true,
+          "AllMinecarts": false,
+          "WyjebBannersy": true,
+          "BannerRadius": 10,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AntiWeb": {
+          "Mode": "Fly",
+          "Grim": true,
+          "Timer": 20.0,
+          "Speed": 0.36,
+          "JumpBypass": false,
+          "Keybind": [
+            280,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ArmorHud": {
+          "Durability": "NOPE",
+          "DurabilityBarColor": [
+            -16711936,
+            false
+          ],
+          "ShowTitle": false,
+          "Position": [
+            0.70810366,
+            0.94284695
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "ArrayList": {
+          "Mode": "ColorText",
+          "GS": 30,
+          "HideHud": true,
+          "HideRender": true,
+          "RectColor": [
+            -1577058304,
+            false
+          ],
+          "SideRectColor": [
+            0,
+            false
+          ],
+          "AnimationSpeed": 10.0,
+          "Font": "Modules",
+          "Position": [
+            0.9920539,
+            0.0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AspectRatio": {
+          "Ratio": 1.43,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Aura": {
+          "Range": 3.71,
+          "ThroughWallsRange": 2.96,
+          "ElytraOverride": false,
+          "ElytraRange": 6.0,
+          "ElytraThroughWallsRange": 6.0,
+          "Bind": [
+            82,
+            false
+          ],
+          "FireworkSpam": true,
+          "ElytraAimRange": 10.24,
+          "WallsBypass": "V2",
+          "FOV": 180,
+          "RotationMode": "HVH",
+          "InteractTicks": 50,
+          "STMaxYaw": 10.04,
+          "STMaxPitch": 14.32,
+          "STAccelOnHit": true,
+          "MoveFix": "Focused",
+          "AutoWeapon": "None",
+          "OnlyWeapon": true,
+          "SmartCrit": true,
+          "OnlyCrit": false,
+          "AutoJump": false,
+          "ShieldBreaker": true,
+          "PauseWhileEating": false,
+          "TPSSync": false,
+          "ClientLook": false,
+          "PauseBaritone": false,
+          "OldDelay": false,
+          "MinCPS": 7,
+          "IgnoreColorTeam": false,
+          "MaxCPS": 12,
+          "ESP": "Veltragossa",
+          "ESPSettings": "better.tree.setting.impl.SettingGroup@3c739b6c",
+          "ESPLength": 14,
+          "ESPFactor": 8,
+          "ESPScale": 0.12,
+          "ESPShaking": 1.8,
+          "ESPAmplitude": 2.19,
+          "RedOnImpact": false,
+          "HitColorDuration": 354.88,
+          "Sort": "LowestDistance",
+          "LockTarget": true,
+          "ElytraTarget": false,
+          "Advanced": "better.tree.setting.impl.SettingGroup@6e65a360",
+          "AimRange": 6.0,
+          "RandomHitDelay": false,
+          "PauseInInventory": false,
+          "DropSprint": true,
+          "ReturnSprint": true,
+          "RayTrace": "AllEntities",
+          "GrimRayTrace": true,
+          "UnpressShield": true,
+          "DisableOnDeath": true,
+          "TPDisable": false,
+          "FastFall": false,
+          "OnlyJumpBoost": false,
+          "PullValue": 3.0,
+          "AttackHand": "MainHand",
+          "AccelerateOnHit": "Both",
+          "MinYawStep": 180,
+          "MaxYawStep": 1,
+          "AimedPitchStep": 1.0,
+          "MaxPitchStep": 38.53,
+          "PitchAccelerate": 1.54,
+          "AttackCooldown": 0.9,
+          "AttackBaseTime": 0.5,
+          "AttackTickLimit": 11,
+          "CritFallDistance": 0.01,
+          "TargetDistance": 30.0,
+          "Targets": "better.tree.setting.impl.SettingGroup@2ac914fa",
+          "Players": true,
+          "Mobs": true,
+          "Animals": true,
+          "Villagers": false,
+          "Slimes": false,
+          "Hostiles": false,
+          "OnlyAngryHostiles": true,
+          "Projectiles": false,
+          "IgnoreInvisibleEntities": false,
+          "IgnoreNamed": false,
+          "IgnoreTeam": false,
+          "IgnoreCreative": false,
+          "IgnoreNaked": true,
+          "AttackShieldingEntities": true,
+          "Keybind": [
+            82,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoAnchor": {
+          "Page": "Main",
+          "AK47": "ON",
+          "Timing": "NORMAL",
+          "Rotate": false,
+          "YawStep": false,
+          "YawAngle": 180.0,
+          "TargetLogic": "Distance",
+          "TargetRange": 10.0,
+          "SelfPredictTicks": 3,
+          "UseOptimizedCalc": true,
+          "Interact": "Vanilla",
+          "PlaceDelay": 0,
+          "LowPlaceDelay": 550,
+          "PlaceRange": 5.0,
+          "PlaceWallRange": 3.5,
+          "PredictTicks": 3,
+          "ExplodeDelay": 0,
+          "LowExplodeDelay": 550,
+          "Mining": true,
+          "Eating": true,
+          "Aura": false,
+          "PistonAura": true,
+          "Surround": true,
+          "MiddleClick": true,
+          "HP": 8.0,
+          "SwitchPause": true,
+          "SwitchDelay": 100,
+          "Sort": "DAMAGE",
+          "MinDamage": 6.0,
+          "MaxSelfDamage": 10.0,
+          "Safety": "NONE",
+          "SafetyBalance": 1.1,
+          "ProtectFriends": true,
+          "OverrideSelfDamage": true,
+          "LethalMultiplier": 1.0,
+          "ArmorBreaker": true,
+          "Armor %": 5.0,
+          "FacePlaceHp": 5.0,
+          "FacePlaceBtn": [
+            340,
+            false
+          ],
+          "Switch": "NORMAL",
+          "AntiWeakness": "SILENT",
+          "Render": false,
+          "RenderMode": "Fade",
+          "SelfDamage": true,
+          "RenderDamage": true,
+          "Block Fill Color": [
+            -6974059,
+            false
+          ],
+          "Block Line Color": [
+            -6974059,
+            false
+          ],
+          "Block Line Width": 2,
+          "Slide Delay": 200,
+          "Text Color": [
+            -1,
+            false
+          ],
+          "TargetName": false,
+          "CurrentSide": true,
+          "Speed": true,
+          "ConfirmTime": true,
+          "CalcInfo": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoArmor": {
+          "Head": "Protection",
+          "Body": "Protection",
+          "Tights": "Protection",
+          "Feet": "Protection",
+          "ElytraPriority": "Ignore",
+          "Delay": 5,
+          "OldVersion": false,
+          "PauseInventory": false,
+          "NoMove": false,
+          "IgnoreCurse": true,
+          "Strict": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "AutoAuth": {
+          "Mode": "Custom",
+          "Password": "none",
+          "ShowPassword": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoChatCMD": {
+          "Cmd": "warp",
+          "CooldownTime": 20,
+          "Repeat": false,
+          "EnableAirstuck": false,
+          "AirstuckTime (s)": 5,
+          "FreezeRotation": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoCrystal": {
+          "Page": "Switch",
+          "Await": true,
+          "Timing": "NORMAL",
+          "Sequential": "Strong",
+          "Rotate": "CC",
+          "YawStep": false,
+          "YawAngle": 20.0,
+          "TargetLogic": "Distance",
+          "TargetRange": 12.75,
+          "Extrapolation": 0,
+          "Interact": "Strict",
+          "ССStrict": true,
+          "RayTraceBypass": false,
+          "1.12": false,
+          "PlaceDelay": 12,
+          "LowPlaceDelay": 20,
+          "PlaceRange": 4.27,
+          "PlaceWallRange": 4.0,
+          "Inhibit": true,
+          "BreakDelay": 12,
+          "LowBreakDelay": 20,
+          "BreakRange": 4.0,
+          "BreakWallRange": 3.78,
+          "CrystalAge": 1,
+          "Mining": false,
+          "Eating": false,
+          "Aura": false,
+          "PistonAura": false,
+          "Surround": true,
+          "MiddleClick": true,
+          "Inventory": false,
+          "HP": 8.0,
+          "SwitchPause": false,
+          "SwitchDelay": 100,
+          "AssumeBestArmor": false,
+          "MinDamage": 10.44,
+          "MaxSelfDamage": 10.44,
+          "Efficiency": false,
+          "EfficiencyFactor": 1.0,
+          "ProtectFriends": true,
+          "OverrideSelfDamage": true,
+          "SacrificeTotem": true,
+          "ArmorBreaker": true,
+          "Armor %": 5.0,
+          "FacePlaceHp": 15.0,
+          "FacePlaceBtn": [
+            340,
+            false
+          ],
+          "IgnoreTerrain": true,
+          "AutoGapple": true,
+          "Switch": "NORMAL",
+          "AntiWeakness": "NONE",
+          "PlaceFailsafe": true,
+          "BreakFailsafe": true,
+          "MaxAttempts": 5,
+          "IDPredict": false,
+          "IDAttacks": 3,
+          "IDPredictOnlyDuels": false,
+          "TargetESP": "Thunderhack",
+          "ESPSettings": "better.tree.setting.impl.SettingGroup@7c6aca54",
+          "ESPLength": 14,
+          "ESPFactor": 8,
+          "ESPShaking": 1.8,
+          "ESPAmplitude": 3.0,
+          "Swing": "Place",
+          "Render": true,
+          "RExtrapolation": false,
+          "ExtrapolationColor": [
+            -1,
+            false
+          ],
+          "RInteractVector": true,
+          "InteractColor": [
+            -65536,
+            false
+          ],
+          "RenderMode": "Slide",
+          "SelfDamage": true,
+          "RenderDamage": true,
+          "Block Fill Color": [
+            1896466118,
+            false
+          ],
+          "Block Line Color": [
+            -3298376,
+            false
+          ],
+          "Block Line Width": 2,
+          "Slide Delay": 200,
+          "Text Color": [
+            -1677721601,
+            false
+          ],
+          "TargetName": false,
+          "CurrentSide": true,
+          "Speed": true,
+          "ConfirmTime": true,
+          "CalcInfo": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoCrystalBase": {
+          "TargetLogic": "Distance",
+          "Range": 5,
+          "MinDamageDelta": 5.0,
+          "PlaceDelay": 300,
+          "CalcDelay": 150,
+          "Interact": "Strict",
+          "Rotate": true,
+          "Notification": true,
+          "DisableNoObby": false,
+          "Render": true,
+          "RenderMode": "All",
+          "AnimationMode": "Fade",
+          "RenderFillColor": [
+            -6974059,
+            false
+          ],
+          "RenderLineColor": [
+            -6974059,
+            false
+          ],
+          "RenderLineWidth": 2,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoCrystalInfo": {
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoDripStone": {
+          "Range": 3,
+          "Delay": 1,
+          "SilentSwitch": true,
+          "RenderColor": [
+            -1777735490,
+            false
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoEat": {
+          "Hunger": 8,
+          "Gapple": false,
+          "Chorus": false,
+          "RottenFlesh": false,
+          "SpiderEye": false,
+          "Pufferfish": false,
+          "SwapBack": true,
+          "PauseBaritone": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoGApple": {
+          "UseDelay": 0,
+          "health": 15.0,
+          "Absorption": false,
+          "AutoTotemIntegration": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoGG": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoLeave": {
+          "AntiHelperLeave": true,
+          "AntiKTLeave": true,
+          "AutoDisable": true,
+          "InstantLeave": true,
+          "Command": "hub",
+          "Leave if": "better.tree.setting.impl.SettingGroup@5ce2864e",
+          "LowHp": true,
+          "Totems": true,
+          "TotemsCount": 2,
+          "HP": 8.0,
+          "Staff": "None",
+          "Players": "Leave",
+          "Distance": 256,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoMLG": {
+          "Mode": "Water",
+          "Retrieve": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoPotions": {
+          "Strength": true,
+          "Speed": true,
+          "FireResistance": true,
+          "Regeneration": true,
+          "OnlyOnGround": true,
+          "PauseAura": false,
+          "CustomDelay": 0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoRespawn": {
+          "deathcoords": true,
+          "Auto Kit": true,
+          "kit name": "new2",
+          "Auto Home": false,
+          "Auto Waypoint": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "AutoSoup": {
+          "TriggerHealth": 7.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoSprint": {
+          "KeepSprint": true,
+          "Motion": 1.0,
+          "StopWhileUsing": false,
+          "PauseWhileAura": false,
+          "SwimSprint": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "AutoTPaccept": {
+          "onlyFriends": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoTool": {
+          "SwapBack": true,
+          "SaveItem": false,
+          "Silent": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoTotem": {
+          "Mode": "Matrix",
+          "Item": "Totem",
+          "BindSwap": false,
+          "SwapButton": [
+            280,
+            false
+          ],
+          "Swap": "GappleShield",
+          "ForceSync": false,
+          "NCPStrict": false,
+          "HP": 16.0,
+          "ShieldGappleHp": 14.0,
+          "CalcAbsorption": true,
+          "StopMotion": false,
+          "ResetAttackCooldown": false,
+          "Safety": "better.tree.setting.impl.SettingGroup@1fdf4011",
+          "HotbarFallback": false,
+          "FallBackCalc": true,
+          "OnElytra": false,
+          "OnFall": false,
+          "OnCrystal": false,
+          "OnObsidianPlace": false,
+          "OnCrystalInHand": false,
+          "OnMinecartTNT": false,
+          "OnCreeper": true,
+          "OnAnchor": true,
+          "OnTNT": false,
+          "RightClickGapple": "Off",
+          "CrappleSpoof": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "AutoTrap": {
+          "Target By": "FOV",
+          "MovingPlayers": true,
+          "Place Timing": "Default",
+          "Block/Tick": 2,
+          "Delay/Place": 0,
+          "Trap Mode": "Full",
+          "NoFly": false,
+          "Range": 3.37,
+          "Interact": "Strict",
+          "Place Mode": "Normal",
+          "Rotate": "None",
+          "Swing": true,
+          "Crystal Breaker": false,
+          "CrystalAge": 0,
+          "Break Delay": 100,
+          "Remove": false,
+          "Break Mode": "Normal",
+          "Anti Weakness": false,
+          "BlocksSelect": [
+            "obsidian",
+            "cobblestone",
+            "stone",
+            "oak_planks",
+            "blue_wool",
+            "cobbled_deepslate",
+            "glowstone",
+            "respawn_anchor"
+          ],
+          "Pause": "better.tree.setting.impl.SettingGroup@7d53f9d4",
+          "On Eat": true,
+          "On Break": false,
+          "Render": true,
+          "Render Mode": "Fill",
+          "Animation Mode": "Fade",
+          "Fill Color": [
+            -11594866,
+            false
+          ],
+          "Line Color": [
+            -6974059,
+            false
+          ],
+          "Line Width": 2,
+          "Keybind": [
+            "M3",
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoWalk": {
+          "Mode": "Simple",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoWeb": {
+          "Range": 3,
+          "WallRange": 3,
+          "PlaceTiming": "Vanilla",
+          "Block/Tick": 3,
+          "Delay/Place": 2,
+          "Interact": "Strict",
+          "PlaceMode": "Packet",
+          "Rotate": "Grim",
+          "Selection": "better.tree.setting.impl.SettingGroup@57c1a440",
+          "Head": true,
+          "Leggs": true,
+          "Surround": true,
+          "UpperSurround": true,
+          "Render": "better.tree.setting.impl.SettingGroup@1fd99800",
+          "Render Mode": "Fade",
+          "Render Fill Color": [
+            -6974059,
+            false
+          ],
+          "Render Line Color": [
+            -6974059,
+            false
+          ],
+          "Render Line Width": 2,
+          "Effect Duration (MS)": 500,
+          "Keybind": [
+            67,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Avoid": {
+          "Void": true,
+          "Cactus": true,
+          "Fire": true,
+          "BerryBush": true,
+          "PowderSnow": true,
+          "Unloaded": true,
+          "Lava": true,
+          "Plate": true,
+          "Tripwire": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "BackUpcfg": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Backtrack": {
+          "ActivationChance": 65.85,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "BaritoneSettings": {
+          "AllowBreakBlock": true,
+          "AllowPlace": true,
+          "AllowSprint": true,
+          "Debug": false,
+          "EnterPortal": false,
+          "DesktopNotifications": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Bed Destroyer": {
+          "Mode": "Default",
+          "Rotate": false,
+          "Range": 2.97,
+          "RenderColor": [
+            -1637889,
+            false
+          ],
+          "CowSound": true,
+          "CowVolume": 1.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "BedwarsHelper": {
+          "BedESP": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Blink": {
+          "Pulse": false,
+          "AutoDisable": false,
+          "DisableOnVelocity": false,
+          "DisablePackets": 17,
+          "PulsePackets": 1,
+          "Render": true,
+          "Render Mode": "Model",
+          "Color": [
+            -65451,
+            true
+          ],
+          "Cancel": [
+            59,
+            false
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "BlockESP": {
+          "SelectedBlocks": [
+            "shulker_box",
+            "white_bed",
+            "orange_bed",
+            "magenta_bed",
+            "light_blue_bed",
+            "yellow_bed",
+            "lime_bed",
+            "pink_bed",
+            "gray_bed",
+            "light_gray_bed",
+            "cyan_bed",
+            "purple_bed",
+            "blue_bed",
+            "brown_bed",
+            "green_bed",
+            "red_bed",
+            "black_bed",
+            "spawner",
+            "white_shulker_box",
+            "magenta_shulker_box",
+            "orange_shulker_box",
+            "light_blue_shulker_box",
+            "yellow_shulker_box",
+            "lime_shulker_box",
+            "pink_shulker_box",
+            "gray_shulker_box",
+            "light_gray_shulker_box",
+            "cyan_shulker_box",
+            "purple_shulker_box",
+            "blue_shulker_box",
+            "brown_shulker_box",
+            "green_shulker_box",
+            "red_shulker_box",
+            "black_shulker_box",
+            "end_portal_frame",
+            "end_portal",
+            "bedrock",
+            "deepslate_diamond_ore",
+            "diamond_block",
+            "diamond_ore",
+            "gold_ore",
+            "deepslate_gold_ore",
+            "nether_gold_ore",
+            "gold_block",
+            "raw_gold_block",
+            "iron_ore",
+            "deepslate_iron_ore",
+            "iron_block",
+            "sugar_cane",
+            "bamboo",
+            "obsidian",
+            "nether_sprouts",
+            "nether_wart",
+            "red_mushroom",
+            "chest",
+            "ender_chest",
+            "allium",
+            "barrel",
+            "pointed_dripstone",
+            "dragon_head",
+            "ancient_debris",
+            "nether_portal",
+            "cobweb",
+            "lava",
+            "emerald_ore",
+            "trapped_chest",
+            "pumpkin",
+            "carrots",
+            "potatoes",
+            "zombie_head",
+            "creeper_head",
+            "piglin_head",
+            "player_head",
+            "white_banner",
+            "orange_banner",
+            "magenta_banner",
+            "light_blue_banner",
+            "yellow_banner",
+            "lime_banner",
+            "pink_banner",
+            "gray_banner",
+            "light_gray_banner",
+            "cyan_banner",
+            "purple_banner",
+            "blue_banner",
+            "brown_banner",
+            "green_banner",
+            "red_banner",
+            "black_banner",
+            "wheat",
+            "potato",
+            "redstone_ore",
+            "deepslate_redstone_ore",
+            "wheat_seeds",
+            "stone",
+            "granite",
+            "polished_granite",
+            "diorite",
+            "polished_diorite",
+            "andesite",
+            "polished_andesite",
+            "coarse_dirt",
+            "grass_block",
+            "dirt",
+            "podzol",
+            "cobblestone",
+            "oak_planks",
+            "spruce_planks",
+            "birch_planks",
+            "jungle_planks",
+            "sand",
+            "suspicious_sand",
+            "red_sand",
+            "gravel",
+            "suspicious_gravel",
+            "deepslate_coal_ore",
+            "coal_ore",
+            "spruce_log",
+            "birch_log",
+            "jungle_log",
+            "acacia_log",
+            "oak_log",
+            "cherry_log",
+            "mangrove_log",
+            "dark_oak_log",
+            "amethyst_cluster",
+            "deepslate_lapis_ore",
+            "lily_of_the_valley",
+            "cornflower",
+            "enchanting_table",
+            "lectern",
+            "respawn_anchor",
+            "observer",
+            "crying_obsidian",
+            "cactus",
+            "lapis_ore",
+            "bookshelf",
+            "anvil",
+            "oak_sign",
+            "spruce_sign",
+            "birch_sign",
+            "acacia_sign",
+            "cherry_sign",
+            "jungle_sign",
+            "dark_oak_sign",
+            "mangrove_sign",
+            "bamboo_sign",
+            "crafting_table",
+            "sea_pickle",
+            "sculk_shrieker",
+            "furnace",
+            "hopper",
+            "brewing_stand",
+            "red_candle",
+            "piston_head",
+            "nether_quartz_ore",
+            "deepslate_emerald_ore",
+            "copper_ore",
+            "deepslate_copper_ore",
+            "orange_glazed_terracotta",
+            "purple_glazed_terracotta",
+            "trial_spawner",
+            "hay_block",
+            "fletching_table",
+            "powered_rail",
+            "rail",
+            "shulker_shell",
+            "shulker_spawn_egg",
+            "cyan_glazed_terracotta",
+            "minecart",
+            "chest_minecart",
+            "furnace_minecart",
+            "tnt_minecart",
+            "hopper_minecart",
+            "command_block_minecart",
+            "painting",
+            "soul_sand",
+            "oak_trapdoor",
+            "netherite_block",
+            "netherite_ingot",
+            "netherite_scrap",
+            "netherite_upgrade_smithing_template",
+            "emerald_block",
+            "end_rod",
+            "end_stone_bricks",
+            "end_stone_brick_slab",
+            "white_wool"
+          ],
+          "Range": 100,
+          "Limit": false,
+          "LimitCount": 50,
+          "Color": [
+            -16711681,
+            false
+          ],
+          "Illegals": true,
+          "Tracers": false,
+          "Fill": true,
+          "Outline": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "BoatFly": {
+          "Mode": "Packet",
+          "Phase": false,
+          "Gravity": true,
+          "AutoMount": true,
+          "AllowShift": false,
+          "Speed": 1.5,
+          "YSpeed": 1.0,
+          "Advanced": "better.tree.setting.impl.SettingGroup@7a638c22",
+          "GlideSpeed": 10.0,
+          "ClickSlot": false,
+          "Limit": true,
+          "OnGroundPacket": false,
+          "SpoofPackets": false,
+          "Jitter": 0.1,
+          "CancelRotations": false,
+          "Cancel": false,
+          "Pause": false,
+          "EnableTicks": 21,
+          "WaitTicks": 18,
+          "StopUnloaded": true,
+          "Timer": 1.0,
+          "HideBoat": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "BreadCrumbs": {
+          "ThroughWalls": true,
+          "ListLimit": 500,
+          "ColorMode": "Sync",
+          "Color": [
+            3649978,
+            false
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "BreakHighLight": {
+          "Mode": "Shrink",
+          "Color": [
+            -1862467584,
+            false
+          ],
+          "Color2": [
+            -196608,
+            false
+          ],
+          "OutlineColor": [
+            -1874854656,
+            false
+          ],
+          "OutlineColor2": [
+            -13697792,
+            false
+          ],
+          "TextColor": [
+            -1,
+            false
+          ],
+          "LineWidth": 2.0,
+          "OtherPlayer": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Breaker": {
+          "Target": "AutoCrystal",
+          "OnlyIfHole": false,
+          "TargetBy": "Distance",
+          "Range": 5,
+          "MinDamage": 7.0,
+          "MaxSelfDamage": 4.0,
+          "CevPriority": true,
+          "AntiShulker": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Cape": {
+          "Cape": "veltragossa",
+          "ElytraTexture": true,
+          "OnlySelf": true,
+          "Friends": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Chams": {
+          "HandItems": false,
+          "HandItemsColor": [
+            -731168363,
+            false
+          ],
+          "Crystals": true,
+          "CrystalColor": [
+            -1825711896,
+            false
+          ],
+          "StaticCrystal": false,
+          "CrystalMode": "One",
+          "Players": true,
+          "PlayerColor": [
+            -2763307,
+            false
+          ],
+          "FriendColor": [
+            -1825707984,
+            false
+          ],
+          "PlayerTexture": true,
+          "Simple": false,
+          "AlternativeBlending": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "ChatSpam": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ChatTranslator": {
+          "YourLanguage": "pl",
+          "OutMessages": "uk",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ChestCounter": {
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ChestStealer": {
+          "Items": [
+            "diamond",
+            "gold_ingot",
+            "emerald",
+            "anvil",
+            "chipped_anvil",
+            "damaged_anvil",
+            "enchanting_table",
+            "cobweb",
+            "gunpowder",
+            "bone",
+            "arrow",
+            "shulker_box",
+            "white_shulker_box",
+            "orange_shulker_box",
+            "magenta_shulker_box",
+            "light_blue_shulker_box",
+            "yellow_shulker_box",
+            "lime_shulker_box",
+            "pink_shulker_box",
+            "gray_shulker_box",
+            "light_gray_shulker_box",
+            "blue_shulker_box",
+            "brown_shulker_box",
+            "black_shulker_box",
+            "red_shulker_box",
+            "green_shulker_box",
+            "cyan_shulker_box",
+            "purple_shulker_box",
+            "end_crystal",
+            "raw_gold",
+            "player_head",
+            "elytra",
+            "totem_of_undying",
+            "feather",
+            "gold_nugget",
+            "slime_ball",
+            "magma_cream",
+            "netherite_chestplate",
+            "netherite_leggings",
+            "netherite_boots",
+            "netherite_helmet",
+            "netherite_sword",
+            "netherite_pickaxe",
+            "enchanted_golden_apple",
+            "golden_apple",
+            "tipped_arrow",
+            "netherite_axe",
+            "egg",
+            "sand",
+            "terracotta",
+            "stone",
+            "granite",
+            "polished_granite",
+            "diorite",
+            "polished_diorite",
+            "andesite",
+            "polished_andesite",
+            "grass_block",
+            "dirt",
+            "coarse_dirt",
+            "podzol",
+            "cobblestone",
+            "oak_planks",
+            "spruce_planks",
+            "birch_planks",
+            "jungle_planks",
+            "acacia_planks",
+            "cherry_planks",
+            "dark_oak_planks",
+            "mangrove_planks",
+            "bamboo_planks",
+            "bamboo_mosaic",
+            "oak_sapling",
+            "spruce_sapling",
+            "birch_sapling",
+            "jungle_sapling",
+            "acacia_sapling",
+            "cherry_sapling",
+            "dark_oak_sapling",
+            "mangrove_propagule",
+            "bedrock",
+            "lava",
+            "water",
+            "suspicious_sand",
+            "red_sand",
+            "gravel",
+            "suspicious_gravel",
+            "gold_ore",
+            "deepslate_gold_ore",
+            "iron_ore",
+            "deepslate_iron_ore",
+            "coal_ore",
+            "deepslate_coal_ore",
+            "nether_gold_ore",
+            "oak_log",
+            "spruce_log",
+            "birch_log",
+            "jungle_log",
+            "acacia_log",
+            "cherry_log",
+            "dark_oak_log",
+            "mangrove_log",
+            "mangrove_roots",
+            "muddy_mangrove_roots",
+            "bamboo_block",
+            "stripped_spruce_log",
+            "stripped_birch_log",
+            "stripped_jungle_log",
+            "stripped_acacia_log",
+            "stripped_cherry_log",
+            "stripped_dark_oak_log",
+            "stripped_oak_log",
+            "stripped_mangrove_log",
+            "stripped_bamboo_block",
+            "oak_wood",
+            "spruce_wood",
+            "birch_wood",
+            "jungle_wood",
+            "acacia_wood",
+            "cherry_wood",
+            "dark_oak_wood",
+            "mangrove_wood",
+            "stripped_oak_wood",
+            "stripped_spruce_wood",
+            "stripped_birch_wood",
+            "stripped_jungle_wood",
+            "stripped_acacia_wood",
+            "stripped_cherry_wood",
+            "stripped_dark_oak_wood",
+            "stripped_mangrove_wood",
+            "spruce_leaves",
+            "oak_leaves",
+            "birch_leaves",
+            "jungle_leaves",
+            "acacia_leaves",
+            "cherry_leaves",
+            "dark_oak_leaves",
+            "mangrove_leaves",
+            "azalea_leaves",
+            "flowering_azalea_leaves",
+            "sponge",
+            "wet_sponge",
+            "glass",
+            "lapis_ore",
+            "deepslate_lapis_ore",
+            "lapis_block",
+            "sandstone",
+            "dispenser",
+            "chiseled_sandstone",
+            "cut_sandstone",
+            "note_block",
+            "white_bed",
+            "orange_bed",
+            "magenta_bed",
+            "light_blue_bed",
+            "yellow_bed",
+            "lime_bed",
+            "pink_bed",
+            "gray_bed",
+            "light_gray_bed",
+            "cyan_bed",
+            "purple_bed",
+            "blue_bed",
+            "brown_bed",
+            "green_bed",
+            "red_bed",
+            "black_bed",
+            "powered_rail",
+            "sticky_piston",
+            "detector_rail",
+            "short_grass",
+            "fern",
+            "dead_bush",
+            "seagrass",
+            "tall_seagrass",
+            "piston",
+            "piston_head",
+            "white_wool",
+            "orange_wool",
+            "magenta_wool",
+            "yellow_wool",
+            "lime_wool",
+            "light_blue_wool",
+            "pink_wool",
+            "gray_wool",
+            "light_gray_wool",
+            "cyan_wool",
+            "purple_wool",
+            "blue_wool",
+            "brown_wool",
+            "green_wool",
+            "red_wool",
+            "black_wool",
+            "moving_piston",
+            "dandelion",
+            "torchflower",
+            "poppy",
+            "blue_orchid",
+            "allium",
+            "azure_bluet",
+            "red_tulip",
+            "orange_tulip",
+            "white_tulip",
+            "netherite_shovel",
+            "netherite_hoe",
+            "sweet_berries",
+            "nether_star",
+            "bamboo",
+            "firework_rocket",
+            "diamond_chestplate",
+            "diamond_block",
+            "netherite_block",
+            "prismarine_shard",
+            "prismarine_crystals",
+            "tripwire_hook",
+            "golden_pickaxe",
+            "experience_bottle",
+            "sentry_armor_trim_smithing_template",
+            "netherite_upgrade_smithing_template",
+            "dune_armor_trim_smithing_template",
+            "coast_armor_trim_smithing_template",
+            "wild_armor_trim_smithing_template",
+            "ward_armor_trim_smithing_template",
+            "eye_armor_trim_smithing_template",
+            "vex_armor_trim_smithing_template",
+            "tide_armor_trim_smithing_template",
+            "snout_armor_trim_smithing_template",
+            "spire_armor_trim_smithing_template",
+            "rib_armor_trim_smithing_template",
+            "wayfinder_armor_trim_smithing_template",
+            "shaper_armor_trim_smithing_template",
+            "silence_armor_trim_smithing_template",
+            "raiser_armor_trim_smithing_template",
+            "host_armor_trim_smithing_template",
+            "flow_armor_trim_smithing_template",
+            "bolt_armor_trim_smithing_template",
+            "candle",
+            "white_candle",
+            "orange_candle",
+            "magenta_candle",
+            "light_blue_candle",
+            "yellow_candle",
+            "lime_candle",
+            "pink_candle",
+            "gray_candle",
+            "light_gray_candle",
+            "cyan_candle",
+            "purple_candle",
+            "blue_candle",
+            "brown_candle",
+            "green_candle",
+            "red_candle",
+            "diamond_sword",
+            "diamond_shovel",
+            "diamond_pickaxe",
+            "diamond_axe",
+            "diamond_hoe",
+            "diamond_helmet",
+            "diamond_leggings",
+            "diamond_boots",
+            "stick",
+            "debug_stick",
+            "white_glazed_terracotta",
+            "orange_glazed_terracotta",
+            "magenta_glazed_terracotta",
+            "light_blue_glazed_terracotta",
+            "yellow_glazed_terracotta",
+            "lime_glazed_terracotta",
+            "pink_glazed_terracotta",
+            "gray_glazed_terracotta",
+            "light_gray_glazed_terracotta",
+            "cyan_glazed_terracotta",
+            "purple_glazed_terracotta",
+            "blue_glazed_terracotta",
+            "brown_glazed_terracotta",
+            "green_glazed_terracotta",
+            "black_glazed_terracotta",
+            "red_glazed_terracotta",
+            "spawner",
+            "shield",
+            "bow",
+            "suspicious_stew",
+            "enchanted_book",
+            "blaze_powder",
+            "lime_stained_glass",
+            "acacia_boat",
+            "air",
+            "iron_ingot",
+            "ender_pearl",
+            "splash_potion",
+            "netherite_ingot",
+            "apple",
+            "lapis_lazuli",
+            "lime_stained_glass_pane",
+            "chest",
+            "trapped_chest"
+          ],
+          "Delay": 0,
+          "Random": false,
+          "Close": false,
+          "AutoMyst": false,
+          "Sort": "None",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ChinaHat": {
+          "Radius": 0.8,
+          "Height": 0.5,
+          "PrimaryColor": [
+            -1767243521,
+            false
+          ],
+          "SecondaryColor": [
+            -1778362881,
+            false
+          ],
+          "Gradient": true,
+          "FriendsHat": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ClickGui": {
+          "Font": "SF_MEDIUM",
+          "Gradient": "LeftToRight",
+          "TextSide": "Center",
+          "ScrollMode": "Old",
+          "CategoryHeight": 237,
+          "Descriptions": true,
+          "Tips": true,
+          "PauseBaritone": true,
+          "Image": "None",
+          "ModuleWidth": 101,
+          "ModuleHeight": 14,
+          "SettingFontScale": 12,
+          "ModulesFontScale": 14,
+          "Gear": true,
+          "GearScale": 60,
+          "GearDuration": 0.5,
+          "GearStop": 25,
+          "CloseAnimation": true,
+          "Keybind": [
+            344,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ClientSettings": {
+          "FutureCompatibility": true,
+          "CustomMainMenu": true,
+          "CustomPanorama": true,
+          "CustomLoadingScreen": true,
+          "ScaleFactorFix": false,
+          "ScaleFactorFixValue": 1.4,
+          "RenderRotations": true,
+          "ClientMessages": true,
+          "Debug": false,
+          "CustomBob": true,
+          "Telemetry": true,
+          "Language": "ENG",
+          "Prefix": "@",
+          "ClipCommandMode": "Matrix",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ClientSpoof": {
+          "Mode": "Vanilla",
+          "Client": "feather",
+          "Version": "V1_20_1",
+          "CustomProtocol": 763,
+          "AutoDetect": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "Cooldowns": {
+          "BarColor": [
+            -16711936,
+            false
+          ],
+          "ShowTitle": true,
+          "Position": [
+            0.0046870974,
+            0.06666221
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Coords": {
+          "NetherCoords": "On",
+          "Position": [
+            0.27073398,
+            0.0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Criticals": {
+          "Mode": "UpdatedNCP",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Crosshair": {
+          "Mode": "Default",
+          "Animated": true,
+          "Dot": true,
+          "T": true,
+          "ColorMode": "Custom",
+          "Color": [
+            575714484,
+            false
+          ],
+          "HitColor": [
+            -16711936,
+            false
+          ],
+          "Dynamic": false,
+          "Range": 0.1,
+          "Speed": 0.1,
+          "BackSpeed": 0.1,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "CrosshairArrows": {
+          "Glow": false,
+          "Height": 2.28,
+          "Down": false,
+          "DownHeight": 3.63,
+          "Width": 0.44,
+          "TracerRadius": 68,
+          "PitchLock": 42,
+          "TracerCMode": "Astolfo",
+          "Friend": [
+            -16717824,
+            false
+          ],
+          "Tracer": [
+            -256,
+            false
+          ],
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "CustomWorld": {
+          "FogModify": false,
+          "FogStart": 0,
+          "FogEnd": 64,
+          "FogColor": [
+            -5701377,
+            false
+          ],
+          "ChangeTime": false,
+          "Time": 21,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "DiscordRPC": {
+          "Picture": "Veltragossa",
+          "ShowIP": true,
+          "StateMode": "Stats",
+          "State": "Beta?_Recode?_NextGen?",
+          "Nickname": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "DurabilityAlert": {
+          "Friend message": true,
+          "Percent": 20,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ESP": {
+          "LingeringPotions": false,
+          "TNTFuse": false,
+          "TNTRange": 0.0,
+          "TNTFuseText": [
+            -1,
+            false
+          ],
+          "TNTRadius": false,
+          "TNTSphereColor": [
+            -1,
+            false
+          ],
+          "BeaconRadius": false,
+          "KeepY": false,
+          "SphereColor": [
+            -1,
+            false
+          ],
+          "BeakonColor": [
+            -1,
+            false
+          ],
+          "Burrow": false,
+          "BurrowTextColor": [
+            -1,
+            false
+          ],
+          "BurrowColor": [
+            -1,
+            false
+          ],
+          "Pearls": true,
+          "DizorentRadius": false,
+          "DizorentColor": [
+            -1291783732,
+            false
+          ],
+          "Box": "better.tree.setting.impl.SettingGroup@181c47e3",
+          "Mode": "Box",
+          "Players": true,
+          "Friends": false,
+          "Crystals": false,
+          "Creatures": false,
+          "Monsters": false,
+          "Ambients": false,
+          "Others": true,
+          "Outline": true,
+          "ColorMode": "SyncColor",
+          "renderHealth": true,
+          "TeamESP": false,
+          "BoxColors": "better.tree.setting.impl.SettingGroup@42251304",
+          "PlayersC": [
+            -27904,
+            false
+          ],
+          "FriendsC": [
+            -13566208,
+            false
+          ],
+          "TeamColor": [
+            -16714241,
+            false
+          ],
+          "CrystalsC": [
+            -16729089,
+            false
+          ],
+          "CreaturesC": [
+            -5635841,
+            false
+          ],
+          "MonstersC": [
+            -65536,
+            false
+          ],
+          "AmbientsC": [
+            -8716033,
+            false
+          ],
+          "OthersC": [
+            13566200,
+            false
+          ],
+          "healthB": [
+            -61184,
+            false
+          ],
+          "healthU": [
+            -13631744,
+            false
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Elytra+": {
+          "Mode": "FireWork",
+          "DisablerDelay": 1,
+          "2b2t": false,
+          "OnlySpace": true,
+          "StopOnGround": false,
+          "InfDurability": true,
+          "Vertical": false,
+          "NCPStrict": "Off",
+          "AntiKick": "Off",
+          "XZSpeed": 0.1,
+          "YSpeed": 0.0,
+          "FireSlot": 1,
+          "Acceleration": false,
+          "AccelerateFactor": 9.0,
+          "FireDelay": 0.0,
+          "Grim": true,
+          "Rotate": true,
+          "FireWorkExtender": true,
+          "GroundSafe": false,
+          "KeepFlying": false,
+          "DisableOnFlag": false,
+          "AllowFireSwap": false,
+          "BowBomb": false,
+          "BombKey": [
+            -1,
+            false
+          ],
+          "InstantFly": true,
+          "CruiseControl": false,
+          "Factor": 1.5,
+          "UpSpeed": 1.0,
+          "Glide": 1.0,
+          "StopMotion": true,
+          "MinUpSpeed": 0.5,
+          "ForceHeight": false,
+          "Height": 121,
+          "DownSpeed": 1.0,
+          "SpeedLimit": true,
+          "MaxSpeed": 2.5,
+          "RedeployInterval": 1.0,
+          "RedeployTimeout": 5.0,
+          "RedeployDelay": 0.5,
+          "InfiniteMaxSpeed": 136.66667,
+          "InfiniteMinSpeed": 14.666667,
+          "InfiniteMaxHeight": 170,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ElytraRecast": {
+          "Exploit": "None",
+          "ChangePitch": true,
+          "PitchValue": 90.0,
+          "AutoWalk": true,
+          "AutoJump": true,
+          "AllowBroken": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ElytraReplace": {
+          "Durability": 5,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ElytraSpeed": {
+          "Delay": 195,
+          "Log": false,
+          "AntiCheatBypass": "GrimAC",
+          "DoubleTap": "Auto",
+          "Speed Bypass": "CUSTOM",
+          "Speed Multiplier": 1.5,
+          "Max Speed": 5.0,
+          "Min Distance": 2.0,
+          "Use Timer": false,
+          "Timer Rage": 1.0,
+          "AutoOFF": true,
+          "OFF  Time": 5,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ElytraSwap": {
+          "Delay": false,
+          "Mode": "Bind",
+          "SwitchButton": [
+            -1,
+            false
+          ],
+          "FireWorkButton": [
+            -1,
+            false
+          ],
+          "StartFireWork": false,
+          "FireWorkMode": "Normal",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ExtraTab": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "FOV": {
+          "FOV modifier": 119,
+          "Item Fov": false,
+          "Item FOV modifier": 94,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "FakeLag": {
+          "Mode": "NEW",
+          "PulseLength": 2,
+          "PulseDelay": 2,
+          "Render": true,
+          "Render Mode": "Box",
+          "Color": [
+            -2464550,
+            false
+          ],
+          "ColoredBox": true,
+          "SyncColor": true,
+          "LagDelayMin": 182,
+          "LagDelayMax": 469,
+          "CancelOnElytra": false,
+          "Keybind": [
+            88,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "FakePlayer": {
+          "CopyInventory": true,
+          "Record": true,
+          "Immortal": true,
+          "Play": true,
+          "AutoTotem": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "FastLatency": {
+          "Delay": 0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "FastTrident": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "FastUse": {
+          "Delay": 0,
+          "Blocks": true,
+          "Crystals": false,
+          "XP": true,
+          "All": false,
+          "FastSlot": false,
+          "Slot": 1,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "FireworkSpam": {
+          "Delay": 500,
+          "SynchAura": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Flight": {
+          "Mode": "Vanilla",
+          "Horizontal": 0.0,
+          "Vertical": 0.0,
+          "Boost": 1.0,
+          "AutoToggle": true,
+          "Ticks": 8,
+          "AntiKick": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Fps": {
+          "Position": [
+            0.19779886,
+            0.0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "FreeCam": {
+          "HSpeed": 1.01,
+          "VSpeed": 1.01,
+          "Freeze": false,
+          "Track": false,
+          "Keybind": [
+            85,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Fullbright": {
+          "MinBright": 1.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "GapplesHud": {
+          "Crapple": true,
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Ghost": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "GrimSpeed": {
+          "PauseInLiquids": false,
+          "PauseWhileSneaking": false,
+          "OnlyPlayers": false,
+          "Speed": 8.0,
+          "Distance": 3.0,
+          "PredictMovement": true,
+          "PredictionFactor": 2.0,
+          "SmoothMovement": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "GuiMove": {
+          "Bypass": "GrimSwap",
+          "RotateOnArrows": true,
+          "sneak": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "HitBoxes": {
+          "XZExpand": 5.0,
+          "YExpand": 5.0,
+          "AffectToAura": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "HitBubbles": {
+          "LifeTime": 30,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "HitParticles": {
+          "Mode": "Stars",
+          "Physics": "Fly",
+          "Color": [
+            -2010153267,
+            false
+          ],
+          "Self": false,
+          "Amount": 1,
+          "LifeTime": 2,
+          "Speed": 2,
+          "Scale": 3.67,
+          "ColorMode": "Sync",
+          "HealColor": [
+            3142544,
+            false
+          ],
+          "DamageColor": [
+            15811379,
+            false
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "HoleAnchor": {
+          "Pitch": 60,
+          "Pull": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "HoleSnap": {
+          "Mode": "Yaw",
+          "Search Range": 5,
+          "Search FOV": 360,
+          "Use Timer": false,
+          "Timer Value": 1.0,
+          "Auto Disable": "better.tree.setting.impl.SettingGroup@11ef9ad8",
+          "On Death": true,
+          "In Hole": true,
+          "No Holes": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Hotbar": {
+          "LeftHandMode": "Merged",
+          "SelectedItemColor": [
+            1291845631,
+            false
+          ],
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "HotbarReplenish": {
+          "Mode": "SWAP",
+          "Delay": 2,
+          "Threshold": 16,
+          "PearlsThreshold": 4,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "HudEditor": {
+          "HudStyle": "Blurry",
+          "Sticky": true,
+          "ArrowsStyle": "New",
+          "Theme": "VioletBlue",
+          "ColorSpeed": 19,
+          "Light": true,
+          "Color": [
+            -15618099,
+            false
+          ],
+          "Color2": [
+            -1,
+            false
+          ],
+          "PlateColor": [
+            -16777216,
+            false
+          ],
+          "TextColor": [
+            -1,
+            false
+          ],
+          "TextColor2": [
+            -1,
+            false
+          ],
+          "BlurColor": [
+            121813453,
+            false
+          ],
+          "HudRound": 3.67,
+          "Alpha": 0.45,
+          "Blend": 3.19,
+          "Outline": 0.0,
+          "Glow": 0.66,
+          "BlurOpacity": 0.57,
+          "BlurStrength": 25.6,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "InventoryCleaner": {
+          "Items": [
+            "wooden_shovel",
+            "wooden_sword",
+            "wooden_pickaxe",
+            "wooden_axe",
+            "wooden_hoe",
+            "dirt",
+            "diorite",
+            "wheat_seeds",
+            "sunflower",
+            "granite",
+            "andesite",
+            "iron_sword",
+            "iron_shovel",
+            "iron_pickaxe",
+            "iron_axe",
+            "iron_hoe",
+            "iron_helmet",
+            "iron_chestplate",
+            "iron_leggings",
+            "iron_boots",
+            "stone_axe",
+            "stone_sword",
+            "stone_pickaxe",
+            "stone_shovel",
+            "stone_hoe",
+            "glass_bottle",
+            "diamond_ore",
+            "iron_ore",
+            "gold_ore",
+            "experience_bottle",
+            "oak_log",
+            "stone",
+            "polished_granite",
+            "polished_diorite",
+            "polished_andesite",
+            "grass_block",
+            "coarse_dirt",
+            "podzol",
+            "cobblestone",
+            "oak_sapling",
+            "spruce_sapling",
+            "birch_sapling",
+            "jungle_sapling",
+            "acacia_sapling",
+            "cherry_sapling",
+            "dark_oak_sapling",
+            "mangrove_propagule",
+            "gravel",
+            "suspicious_gravel",
+            "oak_leaves",
+            "spruce_leaves",
+            "birch_leaves",
+            "jungle_leaves",
+            "acacia_leaves",
+            "cherry_leaves",
+            "dark_oak_leaves",
+            "mangrove_leaves",
+            "azalea_leaves",
+            "flowering_azalea_leaves",
+            "lapis_ore",
+            "deepslate_lapis_ore",
+            "sandstone",
+            "chiseled_sandstone",
+            "cut_sandstone",
+            "redstone_ore",
+            "deepslate_redstone_ore",
+            "music_disc_13",
+            "music_disc_blocks",
+            "music_disc_cat",
+            "music_disc_chirp",
+            "music_disc_far",
+            "music_disc_mall",
+            "music_disc_stal",
+            "music_disc_mellohi",
+            "music_disc_strad",
+            "music_disc_ward",
+            "music_disc_11",
+            "music_disc_wait",
+            "music_disc_otherside",
+            "music_disc_relic",
+            "music_disc_5",
+            "music_disc_pigstep",
+            "leather_boots",
+            "leather_leggings",
+            "leather_chestplate",
+            "leather_helmet",
+            "chainmail_helmet",
+            "golden_helmet",
+            "diamond_helmet",
+            "chainmail_boots",
+            "diamond_boots",
+            "golden_boots",
+            "lime_stained_glass_pane",
+            "paper",
+            "deepslate",
+            "cobbled_deepslate",
+            "string",
+            "tuff",
+            "flint",
+            "minecart",
+            "chest_minecart",
+            "hopper_minecart",
+            "hopper",
+            "chest",
+            "furnace",
+            "cooked_beef",
+            "painting",
+            "ominous_bottle",
+            "rail",
+            "oak_boat",
+            "coal",
+            "item_frame",
+            "bucket",
+            "amethyst_shard",
+            "sand",
+            "raw_copper",
+            "bedrock",
+            "bamboo_mosaic",
+            "bamboo_planks",
+            "mangrove_planks",
+            "dark_oak_planks",
+            "cherry_planks",
+            "acacia_planks",
+            "jungle_planks",
+            "birch_planks",
+            "spruce_planks",
+            "oak_planks",
+            "water",
+            "lava",
+            "suspicious_sand",
+            "red_sand",
+            "deepslate_iron_ore",
+            "coal_ore",
+            "deepslate_coal_ore",
+            "nether_gold_ore",
+            "spruce_log",
+            "birch_log",
+            "jungle_log",
+            "acacia_log",
+            "cherry_log",
+            "dark_oak_log",
+            "mangrove_log",
+            "mangrove_roots",
+            "muddy_mangrove_roots",
+            "bamboo_block",
+            "stripped_spruce_log",
+            "stripped_jungle_log",
+            "stripped_birch_log",
+            "stripped_acacia_log",
+            "stripped_cherry_log",
+            "stripped_dark_oak_log",
+            "stripped_oak_log",
+            "stripped_mangrove_log",
+            "stripped_bamboo_block",
+            "oak_wood",
+            "spruce_wood",
+            "birch_wood",
+            "acacia_wood",
+            "jungle_wood",
+            "cherry_wood",
+            "dark_oak_wood",
+            "mangrove_wood",
+            "stripped_oak_wood",
+            "stripped_birch_wood",
+            "stripped_spruce_wood",
+            "stripped_jungle_wood",
+            "stripped_acacia_wood",
+            "stripped_cherry_wood",
+            "stripped_dark_oak_wood",
+            "stripped_mangrove_wood",
+            "sponge",
+            "wet_sponge",
+            "glass",
+            "lapis_block",
+            "note_block",
+            "white_bed",
+            "orange_bed",
+            "magenta_bed",
+            "light_blue_bed",
+            "yellow_bed",
+            "lime_bed",
+            "pink_bed",
+            "gray_bed",
+            "light_gray_bed",
+            "purple_bed",
+            "blue_bed",
+            "cyan_bed",
+            "brown_bed",
+            "green_bed",
+            "red_bed",
+            "black_bed",
+            "short_grass",
+            "fern",
+            "dead_bush",
+            "tall_seagrass",
+            "seagrass",
+            "deepslate_diamond_ore",
+            "oak_stairs",
+            "redstone_wire",
+            "compass",
+            "deepslate_gold_ore",
+            "dispenser",
+            "powered_rail",
+            "sticky_piston",
+            "detector_rail",
+            "cobweb",
+            "piston",
+            "piston_head",
+            "white_wool",
+            "orange_wool",
+            "magenta_wool",
+            "light_blue_wool",
+            "yellow_wool",
+            "lime_wool",
+            "pink_wool",
+            "gray_wool",
+            "light_gray_wool",
+            "cyan_wool",
+            "purple_wool",
+            "blue_wool",
+            "brown_wool",
+            "green_wool",
+            "red_wool",
+            "black_wool",
+            "moving_piston",
+            "dandelion",
+            "torchflower",
+            "poppy",
+            "blue_orchid",
+            "allium",
+            "azure_bluet",
+            "red_tulip",
+            "orange_tulip",
+            "white_tulip",
+            "pink_tulip",
+            "oxeye_daisy",
+            "cornflower",
+            "wither_rose",
+            "lily_of_the_valley",
+            "brown_mushroom",
+            "red_mushroom",
+            "iron_block",
+            "bricks",
+            "bookshelf",
+            "mossy_cobblestone",
+            "chiseled_bookshelf",
+            "torch",
+            "fire",
+            "soul_fire",
+            "crafting_table",
+            "wheat",
+            "farmland",
+            "oak_sign",
+            "spruce_sign",
+            "birch_sign",
+            "acacia_sign",
+            "cherry_sign",
+            "jungle_sign",
+            "dark_oak_sign",
+            "mangrove_sign",
+            "bamboo_sign",
+            "oak_door",
+            "ladder",
+            "cobblestone_stairs",
+            "oak_hanging_sign",
+            "spruce_hanging_sign",
+            "acacia_hanging_sign",
+            "birch_hanging_sign",
+            "cherry_hanging_sign",
+            "dark_oak_hanging_sign",
+            "jungle_hanging_sign",
+            "crimson_hanging_sign",
+            "warped_hanging_sign",
+            "mangrove_hanging_sign",
+            "bamboo_hanging_sign",
+            "lever",
+            "iron_door",
+            "stone_pressure_plate",
+            "oak_pressure_plate",
+            "spruce_pressure_plate",
+            "birch_pressure_plate",
+            "jungle_pressure_plate",
+            "acacia_pressure_plate",
+            "cherry_pressure_plate",
+            "dark_oak_pressure_plate",
+            "mangrove_pressure_plate",
+            "bamboo_pressure_plate",
+            "redstone_torch",
+            "stone_button",
+            "ice",
+            "snow",
+            "snow_block",
+            "cactus",
+            "clay",
+            "sugar_cane",
+            "jukebox",
+            "oak_fence",
+            "netherrack",
+            "soul_sand",
+            "soul_soil",
+            "basalt",
+            "polished_basalt",
+            "soul_torch",
+            "glowstone",
+            "nether_portal",
+            "carved_pumpkin",
+            "jack_o_lantern",
+            "cake",
+            "repeater",
+            "white_stained_glass",
+            "orange_stained_glass",
+            "magenta_stained_glass",
+            "light_blue_stained_glass",
+            "yellow_stained_glass",
+            "lime_stained_glass",
+            "pink_stained_glass",
+            "gray_stained_glass",
+            "light_gray_stained_glass",
+            "cyan_stained_glass",
+            "purple_stained_glass",
+            "blue_stained_glass",
+            "brown_stained_glass",
+            "green_stained_glass",
+            "red_stained_glass",
+            "black_stained_glass",
+            "oak_trapdoor",
+            "spruce_trapdoor",
+            "birch_trapdoor",
+            "jungle_trapdoor",
+            "acacia_trapdoor",
+            "cherry_trapdoor",
+            "dark_oak_trapdoor",
+            "mangrove_trapdoor",
+            "bamboo_trapdoor",
+            "stone_bricks",
+            "mossy_stone_bricks",
+            "cracked_stone_bricks",
+            "chiseled_stone_bricks",
+            "packed_mud",
+            "mud_bricks",
+            "infested_stone",
+            "infested_cobblestone",
+            "infested_stone_bricks",
+            "infested_mossy_stone_bricks",
+            "infested_cracked_stone_bricks",
+            "infested_chiseled_stone_bricks",
+            "brown_mushroom_block",
+            "red_mushroom_block",
+            "mushroom_stem",
+            "iron_bars",
+            "chain",
+            "glass_pane",
+            "pumpkin",
+            "melon",
+            "attached_pumpkin_stem",
+            "attached_melon_stem",
+            "pumpkin_stem",
+            "melon_stem",
+            "vine",
+            "glow_lichen",
+            "oak_fence_gate",
+            "brick_stairs",
+            "stone_brick_stairs",
+            "mud_brick_stairs",
+            "mycelium",
+            "lily_pad",
+            "nether_bricks",
+            "nether_brick_fence",
+            "nether_brick_stairs",
+            "nether_wart",
+            "enchanting_table",
+            "brewing_stand",
+            "cauldron",
+            "water_cauldron",
+            "lava_cauldron",
+            "powder_snow_cauldron",
+            "end_portal",
+            "end_stone",
+            "dragon_egg",
+            "redstone_lamp",
+            "cocoa",
+            "sandstone_stairs",
+            "emerald_ore",
+            "deepslate_emerald_ore",
+            "ender_chest",
+            "tripwire_hook",
+            "tripwire",
+            "emerald_block",
+            "spruce_stairs",
+            "birch_stairs",
+            "jungle_stairs",
+            "command_block",
+            "beacon",
+            "cobblestone_wall",
+            "mossy_cobblestone_wall",
+            "flower_pot",
+            "potted_torchflower",
+            "potted_birch_sapling",
+            "potted_jungle_sapling",
+            "potted_dark_oak_sapling",
+            "potted_spruce_sapling",
+            "potted_oak_sapling",
+            "potted_acacia_sapling",
+            "potted_cherry_sapling",
+            "potted_mangrove_propagule",
+            "potted_fern",
+            "potted_dandelion",
+            "potted_poppy",
+            "potted_blue_orchid",
+            "potted_allium",
+            "potted_azure_bluet",
+            "potted_red_tulip",
+            "potted_orange_tulip",
+            "potted_white_tulip",
+            "potted_pink_tulip",
+            "potted_oxeye_daisy",
+            "potted_cornflower",
+            "potted_lily_of_the_valley",
+            "potted_wither_rose",
+            "potted_red_mushroom",
+            "potted_brown_mushroom",
+            "potted_dead_bush",
+            "potted_cactus",
+            "carrots",
+            "potatoes",
+            "oak_button",
+            "spruce_button",
+            "birch_button",
+            "jungle_button",
+            "acacia_button",
+            "cherry_button",
+            "dark_oak_button",
+            "mangrove_button",
+            "bamboo_button",
+            "skeleton_skull",
+            "wither_skeleton_skull",
+            "zombie_head",
+            "player_head",
+            "creeper_head",
+            "dragon_head",
+            "piglin_head",
+            "anvil",
+            "chipped_anvil",
+            "damaged_anvil",
+            "trapped_chest",
+            "light_weighted_pressure_plate",
+            "heavy_weighted_pressure_plate",
+            "comparator",
+            "daylight_detector",
+            "redstone_block",
+            "nether_quartz_ore",
+            "quartz_block",
+            "chiseled_quartz_block",
+            "quartz_pillar",
+            "quartz_stairs",
+            "activator_rail",
+            "dropper",
+            "white_terracotta",
+            "orange_terracotta",
+            "magenta_terracotta",
+            "light_blue_terracotta",
+            "yellow_terracotta",
+            "lime_terracotta",
+            "pink_terracotta",
+            "gray_terracotta",
+            "light_gray_terracotta",
+            "cyan_terracotta",
+            "purple_terracotta",
+            "blue_terracotta",
+            "brown_terracotta",
+            "green_terracotta",
+            "red_terracotta",
+            "black_terracotta",
+            "white_stained_glass_pane",
+            "orange_stained_glass_pane",
+            "magenta_stained_glass_pane",
+            "light_blue_stained_glass_pane",
+            "yellow_stained_glass_pane",
+            "pink_stained_glass_pane",
+            "gray_stained_glass_pane",
+            "light_gray_stained_glass_pane",
+            "purple_stained_glass_pane",
+            "cyan_stained_glass_pane",
+            "blue_stained_glass_pane",
+            "brown_stained_glass_pane",
+            "green_stained_glass_pane",
+            "red_stained_glass_pane",
+            "acacia_stairs",
+            "black_stained_glass_pane",
+            "cherry_stairs",
+            "dark_oak_stairs",
+            "mangrove_stairs",
+            "bamboo_stairs",
+            "bamboo_mosaic_stairs",
+            "slime_block",
+            "barrier",
+            "light",
+            "iron_trapdoor",
+            "prismarine",
+            "prismarine_bricks",
+            "dark_prismarine",
+            "prismarine_stairs",
+            "prismarine_brick_stairs",
+            "dark_prismarine_stairs",
+            "prismarine_slab",
+            "prismarine_brick_slab",
+            "sea_lantern",
+            "dark_prismarine_slab",
+            "hay_block",
+            "white_carpet",
+            "orange_carpet",
+            "magenta_carpet",
+            "light_blue_carpet",
+            "yellow_carpet",
+            "lime_carpet",
+            "pink_carpet",
+            "gray_carpet",
+            "light_gray_carpet",
+            "cyan_carpet",
+            "purple_carpet",
+            "blue_carpet",
+            "brown_carpet",
+            "green_carpet",
+            "red_carpet",
+            "black_carpet",
+            "terracotta",
+            "coal_block",
+            "packed_ice",
+            "lilac",
+            "rose_bush",
+            "peony",
+            "tall_grass",
+            "large_fern",
+            "white_banner",
+            "orange_banner",
+            "magenta_banner",
+            "light_blue_banner",
+            "yellow_banner",
+            "lime_banner",
+            "pink_banner",
+            "gray_banner",
+            "light_gray_banner",
+            "cyan_banner",
+            "purple_banner",
+            "blue_banner",
+            "brown_banner",
+            "green_banner",
+            "red_banner",
+            "black_banner",
+            "red_sandstone",
+            "chiseled_red_sandstone",
+            "cut_red_sandstone",
+            "red_sandstone_stairs",
+            "spruce_slab",
+            "oak_slab",
+            "jungle_slab",
+            "birch_slab",
+            "acacia_slab",
+            "cherry_slab",
+            "dark_oak_slab",
+            "mangrove_slab",
+            "bamboo_slab",
+            "bamboo_mosaic_slab",
+            "stone_slab",
+            "sandstone_slab",
+            "smooth_stone_slab",
+            "cut_sandstone_slab",
+            "petrified_oak_slab",
+            "cobblestone_slab",
+            "brick_slab",
+            "stone_brick_slab",
+            "mud_brick_slab",
+            "nether_brick_slab",
+            "quartz_slab",
+            "red_sandstone_slab",
+            "cut_red_sandstone_slab",
+            "purpur_slab",
+            "smooth_stone",
+            "smooth_sandstone",
+            "smooth_quartz",
+            "smooth_red_sandstone",
+            "spruce_fence_gate",
+            "birch_fence_gate",
+            "jungle_fence_gate",
+            "acacia_fence_gate",
+            "cherry_fence_gate",
+            "dark_oak_fence_gate",
+            "mangrove_fence_gate",
+            "bamboo_fence_gate",
+            "spruce_fence",
+            "birch_fence",
+            "jungle_fence",
+            "acacia_fence",
+            "cherry_fence",
+            "dark_oak_fence",
+            "mangrove_fence",
+            "bamboo_fence",
+            "spruce_door",
+            "birch_door",
+            "jungle_door",
+            "acacia_door",
+            "cherry_door",
+            "dark_oak_door",
+            "mangrove_door",
+            "bamboo_door",
+            "end_rod",
+            "chorus_plant",
+            "chorus_flower",
+            "purpur_block",
+            "purpur_pillar",
+            "purpur_stairs",
+            "end_stone_bricks",
+            "torchflower_crop",
+            "pitcher_crop",
+            "pitcher_plant",
+            "beetroots",
+            "dirt_path",
+            "end_gateway",
+            "repeating_command_block",
+            "chain_command_block",
+            "frosted_ice",
+            "magma_block",
+            "nether_wart_block",
+            "red_nether_bricks",
+            "bone_block",
+            "structure_void",
+            "observer",
+            "white_glazed_terracotta",
+            "orange_glazed_terracotta",
+            "magenta_glazed_terracotta",
+            "light_blue_glazed_terracotta",
+            "yellow_glazed_terracotta",
+            "lime_glazed_terracotta",
+            "pink_glazed_terracotta",
+            "gray_glazed_terracotta",
+            "light_gray_glazed_terracotta",
+            "cyan_glazed_terracotta",
+            "purple_glazed_terracotta",
+            "blue_glazed_terracotta",
+            "green_glazed_terracotta",
+            "brown_glazed_terracotta",
+            "red_glazed_terracotta",
+            "black_glazed_terracotta",
+            "white_concrete",
+            "magenta_concrete",
+            "orange_concrete",
+            "light_blue_concrete",
+            "yellow_concrete",
+            "lime_concrete",
+            "pink_concrete",
+            "gray_concrete",
+            "light_gray_concrete",
+            "cyan_concrete",
+            "purple_concrete",
+            "blue_concrete",
+            "brown_concrete",
+            "green_concrete",
+            "red_concrete",
+            "black_concrete",
+            "white_concrete_powder",
+            "orange_concrete_powder",
+            "magenta_concrete_powder",
+            "light_blue_concrete_powder",
+            "yellow_concrete_powder",
+            "lime_concrete_powder",
+            "pink_concrete_powder",
+            "gray_concrete_powder",
+            "light_gray_concrete_powder",
+            "cyan_concrete_powder",
+            "purple_concrete_powder",
+            "blue_concrete_powder",
+            "brown_concrete_powder",
+            "green_concrete_powder",
+            "red_concrete_powder",
+            "black_concrete_powder",
+            "kelp",
+            "kelp_plant",
+            "dried_kelp_block",
+            "turtle_egg",
+            "sniffer_egg",
+            "dead_tube_coral_block",
+            "dead_brain_coral_block",
+            "dead_bubble_coral_block",
+            "dead_fire_coral_block",
+            "dead_horn_coral_block",
+            "tube_coral_block",
+            "brain_coral_block",
+            "bubble_coral_block",
+            "fire_coral_block",
+            "horn_coral_block",
+            "dead_tube_coral",
+            "dead_brain_coral",
+            "dead_bubble_coral",
+            "dead_fire_coral",
+            "dead_horn_coral",
+            "tube_coral",
+            "bubble_coral",
+            "fire_coral",
+            "brain_coral",
+            "horn_coral",
+            "dead_tube_coral_fan",
+            "dead_brain_coral_fan",
+            "dead_bubble_coral_fan",
+            "dead_fire_coral_fan",
+            "dead_horn_coral_fan",
+            "tube_coral_fan",
+            "brain_coral_fan",
+            "bubble_coral_fan",
+            "fire_coral_fan",
+            "dead_tube_coral_wall_fan",
+            "horn_coral_fan",
+            "dead_brain_coral_wall_fan",
+            "dead_bubble_coral_wall_fan",
+            "dead_fire_coral_wall_fan",
+            "dead_horn_coral_wall_fan",
+            "tube_coral_wall_fan",
+            "brain_coral_wall_fan",
+            "fire_coral_wall_fan",
+            "bubble_coral_wall_fan",
+            "horn_coral_wall_fan",
+            "sea_pickle",
+            "blue_ice",
+            "conduit",
+            "bamboo_sapling",
+            "bamboo",
+            "potted_bamboo",
+            "void_air",
+            "cave_air",
+            "bubble_column",
+            "polished_granite_stairs",
+            "smooth_red_sandstone_stairs",
+            "polished_diorite_stairs",
+            "mossy_stone_brick_stairs",
+            "mossy_cobblestone_stairs",
+            "end_stone_brick_stairs",
+            "stone_stairs",
+            "smooth_quartz_stairs",
+            "smooth_sandstone_stairs",
+            "granite_stairs",
+            "andesite_stairs",
+            "red_nether_brick_stairs",
+            "polished_andesite_stairs",
+            "diorite_stairs",
+            "polished_granite_slab",
+            "smooth_red_sandstone_slab",
+            "mossy_stone_brick_slab",
+            "polished_diorite_slab",
+            "mossy_cobblestone_slab",
+            "end_stone_brick_slab",
+            "smooth_sandstone_slab",
+            "smooth_quartz_slab",
+            "granite_slab",
+            "andesite_slab",
+            "red_nether_brick_slab",
+            "polished_andesite_slab",
+            "diorite_slab",
+            "brick_wall",
+            "prismarine_wall",
+            "red_sandstone_wall",
+            "mossy_stone_brick_wall",
+            "stone_brick_wall",
+            "granite_wall",
+            "mud_brick_wall",
+            "nether_brick_wall",
+            "andesite_wall",
+            "red_nether_brick_wall",
+            "sandstone_wall",
+            "end_stone_brick_wall",
+            "diorite_wall",
+            "scaffolding",
+            "loom",
+            "barrel",
+            "smoker",
+            "blast_furnace",
+            "cartography_table",
+            "fletching_table",
+            "grindstone",
+            "lectern",
+            "smithing_table",
+            "stonecutter",
+            "bell",
+            "lantern",
+            "soul_lantern",
+            "campfire",
+            "soul_campfire",
+            "sweet_berry_bush",
+            "warped_stem",
+            "stripped_warped_stem",
+            "warped_hyphae",
+            "stripped_warped_hyphae",
+            "warped_nylium",
+            "warped_fungus",
+            "warped_wart_block",
+            "warped_roots",
+            "nether_sprouts",
+            "crimson_stem",
+            "stripped_crimson_stem",
+            "crimson_hyphae",
+            "stripped_crimson_hyphae",
+            "crimson_nylium",
+            "crimson_fungus",
+            "shroomlight",
+            "weeping_vines",
+            "weeping_vines_plant",
+            "twisting_vines",
+            "twisting_vines_plant",
+            "crimson_roots",
+            "crimson_planks",
+            "warped_planks",
+            "crimson_slab",
+            "warped_slab",
+            "crimson_pressure_plate",
+            "warped_pressure_plate",
+            "crimson_fence",
+            "warped_fence",
+            "crimson_trapdoor",
+            "warped_trapdoor",
+            "crimson_fence_gate",
+            "warped_fence_gate",
+            "crimson_stairs",
+            "warped_stairs",
+            "crimson_button",
+            "warped_button",
+            "crimson_door",
+            "warped_door",
+            "crimson_sign",
+            "warped_sign",
+            "structure_block",
+            "jigsaw",
+            "composter",
+            "target",
+            "bee_nest",
+            "beehive",
+            "honey_block",
+            "honeycomb_block",
+            "crying_obsidian",
+            "respawn_anchor",
+            "potted_crimson_fungus",
+            "potted_warped_fungus",
+            "potted_crimson_roots",
+            "potted_warped_roots",
+            "blackstone",
+            "lodestone",
+            "blackstone_stairs",
+            "blackstone_wall",
+            "blackstone_slab",
+            "polished_blackstone",
+            "polished_blackstone_bricks",
+            "cracked_polished_blackstone_bricks",
+            "chiseled_polished_blackstone",
+            "polished_blackstone_brick_slab",
+            "polished_blackstone_brick_stairs",
+            "polished_blackstone_stairs",
+            "polished_blackstone_brick_wall",
+            "gilded_blackstone",
+            "polished_blackstone_slab",
+            "polished_blackstone_pressure_plate",
+            "polished_blackstone_button",
+            "polished_blackstone_wall",
+            "chiseled_nether_bricks",
+            "cracked_nether_bricks",
+            "quartz_bricks",
+            "candle",
+            "white_candle",
+            "orange_candle",
+            "light_blue_candle",
+            "magenta_candle",
+            "yellow_candle",
+            "lime_candle",
+            "pink_candle",
+            "gray_candle",
+            "light_gray_candle",
+            "cyan_candle",
+            "purple_candle",
+            "blue_candle",
+            "brown_candle",
+            "green_candle",
+            "red_candle",
+            "black_candle",
+            "candle_cake",
+            "white_candle_cake",
+            "orange_candle_cake",
+            "magenta_candle_cake",
+            "light_blue_candle_cake",
+            "yellow_candle_cake",
+            "lime_candle_cake",
+            "pink_candle_cake",
+            "gray_candle_cake",
+            "light_gray_candle_cake",
+            "cyan_candle_cake",
+            "purple_candle_cake",
+            "blue_candle_cake",
+            "brown_candle_cake",
+            "green_candle_cake",
+            "red_candle_cake",
+            "black_candle_cake",
+            "amethyst_block",
+            "budding_amethyst",
+            "amethyst_cluster",
+            "large_amethyst_bud",
+            "medium_amethyst_bud",
+            "small_amethyst_bud",
+            "tuff_slab",
+            "tuff_stairs",
+            "tuff_wall",
+            "polished_tuff",
+            "polished_tuff_slab",
+            "polished_tuff_stairs",
+            "polished_tuff_wall",
+            "chiseled_tuff",
+            "tuff_bricks",
+            "tuff_brick_slab",
+            "tuff_brick_stairs",
+            "tuff_brick_wall",
+            "chiseled_tuff_bricks",
+            "calcite",
+            "tinted_glass",
+            "powder_snow",
+            "sculk_sensor",
+            "calibrated_sculk_sensor",
+            "sculk",
+            "sculk_vein",
+            "sculk_catalyst",
+            "sculk_shrieker",
+            "copper_block",
+            "exposed_copper",
+            "weathered_copper",
+            "oxidized_copper",
+            "copper_ore",
+            "deepslate_copper_ore",
+            "oxidized_cut_copper",
+            "weathered_cut_copper",
+            "exposed_cut_copper",
+            "cut_copper",
+            "weathered_chiseled_copper",
+            "oxidized_chiseled_copper",
+            "exposed_chiseled_copper",
+            "chiseled_copper",
+            "waxed_oxidized_chiseled_copper",
+            "waxed_weathered_chiseled_copper",
+            "oxidized_cut_copper_stairs",
+            "exposed_cut_copper_stairs",
+            "cut_copper_stairs",
+            "waxed_chiseled_copper",
+            "waxed_exposed_chiseled_copper",
+            "weathered_cut_copper_stairs",
+            "oxidized_cut_copper_slab",
+            "weathered_cut_copper_slab",
+            "exposed_cut_copper_slab",
+            "cut_copper_slab",
+            "waxed_copper_block",
+            "waxed_exposed_copper",
+            "waxed_oxidized_copper",
+            "waxed_oxidized_cut_copper",
+            "waxed_weathered_cut_copper",
+            "waxed_exposed_cut_copper",
+            "waxed_cut_copper",
+            "waxed_oxidized_cut_copper_stairs",
+            "waxed_weathered_cut_copper_stairs",
+            "waxed_exposed_cut_copper_stairs",
+            "waxed_cut_copper_stairs",
+            "waxed_oxidized_cut_copper_slab",
+            "waxed_weathered_cut_copper_slab",
+            "waxed_exposed_cut_copper_slab",
+            "waxed_cut_copper_slab",
+            "copper_door",
+            "exposed_copper_door",
+            "oxidized_copper_door",
+            "weathered_copper_door",
+            "waxed_copper_door",
+            "waxed_exposed_copper_door",
+            "waxed_oxidized_copper_door",
+            "waxed_weathered_copper_door",
+            "copper_trapdoor",
+            "exposed_copper_trapdoor",
+            "oxidized_copper_trapdoor",
+            "weathered_copper_trapdoor",
+            "waxed_copper_trapdoor",
+            "waxed_exposed_copper_trapdoor",
+            "waxed_oxidized_copper_trapdoor",
+            "waxed_weathered_copper_trapdoor",
+            "copper_grate",
+            "exposed_copper_grate",
+            "weathered_copper_grate",
+            "oxidized_copper_grate",
+            "waxed_copper_grate",
+            "waxed_exposed_copper_grate",
+            "waxed_weathered_copper_grate",
+            "waxed_oxidized_copper_grate",
+            "copper_bulb",
+            "exposed_copper_bulb",
+            "weathered_copper_bulb",
+            "oxidized_copper_bulb",
+            "waxed_copper_bulb",
+            "waxed_exposed_copper_bulb",
+            "waxed_weathered_copper_bulb",
+            "waxed_oxidized_copper_bulb",
+            "lightning_rod",
+            "pointed_dripstone",
+            "dripstone_block",
+            "cave_vines",
+            "cave_vines_plant",
+            "spore_blossom",
+            "azalea",
+            "flowering_azalea",
+            "moss_carpet",
+            "pink_petals",
+            "moss_block",
+            "big_dripleaf",
+            "big_dripleaf_stem",
+            "small_dripleaf",
+            "hanging_roots",
+            "rooted_dirt",
+            "mud",
+            "cobbled_deepslate_stairs",
+            "cobbled_deepslate_slab",
+            "cobbled_deepslate_wall",
+            "polished_deepslate",
+            "polished_deepslate_stairs",
+            "polished_deepslate_slab",
+            "polished_deepslate_wall",
+            "deepslate_tiles",
+            "deepslate_tile_stairs",
+            "deepslate_tile_slab",
+            "deepslate_tile_wall",
+            "deepslate_bricks",
+            "deepslate_brick_stairs",
+            "deepslate_brick_slab",
+            "deepslate_brick_wall",
+            "chiseled_deepslate",
+            "cracked_deepslate_bricks",
+            "cracked_deepslate_tiles",
+            "infested_deepslate",
+            "smooth_basalt",
+            "raw_iron_block",
+            "raw_copper_block",
+            "raw_gold_block",
+            "potted_azalea_bush",
+            "potted_flowering_azalea_bush",
+            "ochre_froglight",
+            "verdant_froglight",
+            "pearlescent_froglight",
+            "frogspawn",
+            "reinforced_deepslate",
+            "decorated_pot",
+            "crafter",
+            "trial_spawner",
+            "vault",
+            "heavy_core",
+            "air",
+            "saddle",
+            "furnace_minecart",
+            "tnt_minecart",
+            "oak_chest_boat",
+            "spruce_boat",
+            "spruce_chest_boat",
+            "birch_boat",
+            "birch_chest_boat",
+            "jungle_boat",
+            "jungle_chest_boat",
+            "acacia_boat",
+            "acacia_chest_boat",
+            "cherry_boat",
+            "cherry_chest_boat",
+            "dark_oak_boat",
+            "dark_oak_chest_boat",
+            "mangrove_boat",
+            "mangrove_chest_boat",
+            "bamboo_raft",
+            "bamboo_chest_raft",
+            "turtle_helmet",
+            "turtle_scute",
+            "armadillo_scute",
+            "wolf_armor",
+            "bow",
+            "arrow",
+            "charcoal",
+            "diamond",
+            "emerald",
+            "quartz",
+            "lapis_lazuli",
+            "raw_iron",
+            "iron_ingot",
+            "copper_ingot",
+            "raw_gold",
+            "gold_ingot",
+            "golden_sword",
+            "golden_shovel",
+            "golden_pickaxe",
+            "golden_axe",
+            "golden_hoe",
+            "diamond_shovel",
+            "diamond_pickaxe",
+            "diamond_axe",
+            "diamond_hoe",
+            "stick",
+            "bowl",
+            "mushroom_stew",
+            "feather",
+            "bread",
+            "chainmail_chestplate",
+            "chainmail_leggings",
+            "golden_chestplate",
+            "golden_leggings",
+            "porkchop",
+            "cooked_porkchop",
+            "water_bucket",
+            "lava_bucket",
+            "powder_snow_bucket",
+            "snowball",
+            "leather",
+            "milk_bucket",
+            "pufferfish_bucket",
+            "salmon_bucket",
+            "cod_bucket",
+            "tropical_fish_bucket",
+            "axolotl_bucket",
+            "tadpole_bucket",
+            "brick",
+            "clay_ball",
+            "book",
+            "slime_ball",
+            "recovery_compass",
+            "bundle",
+            "clock",
+            "spyglass",
+            "glowstone_dust",
+            "cod",
+            "salmon",
+            "tropical_fish",
+            "cooked_cod",
+            "cooked_salmon",
+            "ink_sac",
+            "glow_ink_sac",
+            "cocoa_beans",
+            "white_dye",
+            "orange_dye",
+            "magenta_dye",
+            "light_blue_dye",
+            "yellow_dye",
+            "lime_dye",
+            "pink_dye",
+            "gray_dye",
+            "light_gray_dye",
+            "cyan_dye",
+            "purple_dye",
+            "blue_dye",
+            "brown_dye",
+            "green_dye",
+            "red_dye",
+            "black_dye",
+            "bone_meal",
+            "bone",
+            "sugar",
+            "cookie",
+            "filled_map",
+            "shears",
+            "melon_slice",
+            "dried_kelp",
+            "pumpkin_seeds",
+            "melon_seeds",
+            "beef",
+            "chicken",
+            "cooked_chicken",
+            "rotten_flesh",
+            "blaze_rod",
+            "gold_nugget",
+            "spider_eye",
+            "fermented_spider_eye",
+            "blaze_powder",
+            "magma_cream",
+            "glistering_melon_slice",
+            "writable_book",
+            "carrot",
+            "baked_potato",
+            "poisonous_potato",
+            "potato",
+            "map",
+            "pumpkin_pie",
+            "nether_brick",
+            "prismarine_shard",
+            "prismarine_crystals",
+            "rabbit",
+            "cooked_rabbit",
+            "rabbit_stew",
+            "rabbit_foot",
+            "rabbit_hide",
+            "armor_stand",
+            "iron_horse_armor",
+            "golden_horse_armor",
+            "diamond_horse_armor",
+            "leather_horse_armor",
+            "lead",
+            "name_tag",
+            "command_block_minecart",
+            "mutton",
+            "cooked_mutton",
+            "chorus_fruit",
+            "torchflower_seeds",
+            "pitcher_pod",
+            "beetroot",
+            "beetroot_seeds",
+            "beetroot_soup",
+            "dragon_breath",
+            "spectral_arrow",
+            "disc_fragment_5",
+            "phantom_membrane",
+            "nautilus_shell",
+            "heart_of_the_sea",
+            "suspicious_stew",
+            "flower_banner_pattern",
+            "creeper_banner_pattern",
+            "skull_banner_pattern",
+            "mojang_banner_pattern",
+            "globe_banner_pattern",
+            "piglin_banner_pattern",
+            "flow_banner_pattern",
+            "goat_horn",
+            "guster_banner_pattern",
+            "sweet_berries",
+            "glow_berries",
+            "honeycomb",
+            "honey_bottle",
+            "echo_shard",
+            "brush",
+            "redstone",
+            "end_crystal",
+            "totem_of_undying",
+            "breeze_rod",
+            "ominous_trial_key",
+            "trial_key",
+            "skull_pottery_sherd",
+            "shelter_pottery_sherd",
+            "snort_pottery_sherd",
+            "netherite_ingot",
+            "netherite_scrap",
+            "obsidian",
+            "ender_pearl",
+            "crossbow",
+            "ancient_debris",
+            "diamond_chestplate",
+            "diamond_leggings",
+            "apple",
+            "shield",
+            "netherite_helmet",
+            "netherite_chestplate",
+            "netherite_leggings",
+            "netherite_boots",
+            "elytra",
+            "fire_charge",
+            "tipped_arrow",
+            "spawner",
+            "golden_apple"
+          ],
+          "DropWhen": "NotInInventory",
+          "Delay": 50,
+          "CleanChests": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "InventoryHud": {
+          "Scale": 1.0,
+          "Position": [
+            0.66853964,
+            0.8966514
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ItemESP": {
+          "Shadow": true,
+          "ShadowColor": [
+            -16777216,
+            false
+          ],
+          "TextColor": [
+            -1,
+            false
+          ],
+          "Mode": "Rect",
+          "Radius": 1.0,
+          "UseHudColor": true,
+          "ColorOffset": 2,
+          "CircleColor": [
+            -1,
+            false
+          ],
+          "CirclePoints": 12,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ItemScroller": {
+          "Delay": 80,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Jesus": {
+          "Mode": "SOLID",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "JumpCircle": {
+          "Mode": "Default",
+          "EaseOut": true,
+          "RotateSpeed": 2.0,
+          "CircleScale": 1.0,
+          "OnlySelf": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "KeyBinds": {
+          "OnColor": [
+            -7000387,
+            false
+          ],
+          "OffColor": [
+            -12303292,
+            false
+          ],
+          "OnlyEnabled": false,
+          "Position": [
+            0.051252276,
+            0.19400632
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "KillEffect": {
+          "Mode": "Orthodox",
+          "Y Speed": 2,
+          "Volume": 100,
+          "Play Sound": true,
+          "ParticlesRate": 32,
+          "Color": [
+            -2030043392,
+            false
+          ],
+          "Mobs": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "KillFeed": {
+          "ResetOnDeath": true,
+          "Position": [
+            0.9301857,
+            0.0055526993
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "KillStats": {
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "LagNotifier": {
+          "Rubberband": true,
+          "ServerResponse": true,
+          "ResponseTreshold": 5,
+          "TPS": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "LegacyHud": {
+          "Font": "Monsterrat",
+          "Color": [
+            -65451,
+            true
+          ],
+          "RenderingUp": true,
+          "Watermark": false,
+          "ActiveModules": false,
+          "Coords": true,
+          "Direction": true,
+          "Armor": true,
+          "Totems": true,
+          "Welcomer": false,
+          "Speed": true,
+          "BPS": false,
+          "Potions": true,
+          "Ping": true,
+          "TPS": true,
+          "ExtraTPS": true,
+          "OffhandDurability": false,
+          "MainhandDurability": false,
+          "FPS": true,
+          "Chests": false,
+          "WorldTime": false,
+          "Biome": false,
+          "Time": true,
+          "WatermarkPosY": 2,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "LegitHelper": {
+          "Minecarts": true,
+          "MaxDistance": 4.0,
+          "Refill": true,
+          "RefillSlot": 9,
+          "Anchors": true,
+          "AnchorDelay": 50,
+          "AnchorBind": [
+            89,
+            false
+          ],
+          "Crystals": true,
+          "CrystalDelay": 50,
+          "CrystalBind": [
+            85,
+            false
+          ],
+          "ChangePitch": false,
+          "CrystalOptimizer": false,
+          "SwitchBack": false,
+          "ShieldBreaker": false,
+          "BreakerDelay": 50,
+          "SwapBack": true,
+          "WindBoostJump": true,
+          "WindBoostBind": [
+            73,
+            false
+          ],
+          "CrossBow": true,
+          "CrossBowBind": [
+            79,
+            false
+          ],
+          "CBSwapBack": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "LevitCtrl": {
+          "Up Speed": 1,
+          "Down Speed": 1,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "LogoutSpots": {
+          "RenderMode": "TexturedChams",
+          "Color": [
+            -2013200640,
+            false
+          ],
+          "Notifications": true,
+          "IgnoreBots": true,
+          "Timeout": 30,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "LongJump": {
+          "Timer": false,
+          "JumpDisable": true,
+          "TimerSpeed": 1.0,
+          "Speed": 2.5555556,
+          "MaxDistance": 5.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "MaceKill": {
+          "Height": 1.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "MaceSwap": {
+          "WindBurst": true,
+          "Breach": true,
+          "OnlySword": false,
+          "OnlyAxe": false,
+          "SwitchBack": true,
+          "SwitchBackDelay": 200,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Media": {
+          "Skin Protect": true,
+          "Nick Protect": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "MemoryHud": {
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "MentionLogger": {
+          "UseOwnName": true,
+          "CustomText": "Zelek5351",
+          "Sound": true,
+          "SaveToFile": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "MiddleClick": {
+          "FireworkDelay": 250,
+          "HealPotDelay": 250,
+          "OnBlock": "Friend",
+          "OnAir": "Friend",
+          "OnEntity": "Friend",
+          "OnElytra": "Friend",
+          "Silent": false,
+          "Inventory": false,
+          "SwapDelay": 100,
+          "AntiWaste": false,
+          "StopOn": 90,
+          "AntiPickUp": false,
+          "FeetXP": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "MoreKnockback": {
+          "InMove": true,
+          "HurtTime": 10,
+          "Chance": 100,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "MouseElytraFix": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "MultiTask": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "NameProtect": {
+          "Hide friends": false,
+          "Invisible": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "NameTags": {
+          "Self": false,
+          "Scale": 0.71,
+          "Resize": false,
+          "Height": 1.05,
+          "Gamemode": true,
+          "SpawnerNameTag": true,
+          "EntityOwner": true,
+          "Ping": true,
+          "HP": true,
+          "Distance": true,
+          "TotemPops": true,
+          "OutlineType": "None",
+          "FriendSymbolColor": [
+            -2147483648,
+            false
+          ],
+          "FriendOutline": "None",
+          "OutlineColor": [
+            -2147483648,
+            false
+          ],
+          "FriendOutlineColor": [
+            -2147483648,
+            false
+          ],
+          "Enchants": true,
+          "OnlyHands": false,
+          "FunTimeHp": true,
+          "IgnoreBots": false,
+          "Potions": true,
+          "Shulkers": true,
+          "Fill": [
+            0,
+            false
+          ],
+          "FriendFill": [
+            1897593080,
+            false
+          ],
+          "FontMode": "Fancy",
+          "ArmorMode": "Full",
+          "Health": "Number",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "NarratorOffs": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "NoBob": {
+          "Mode": "Sexy",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "NoCameraClip": {
+          "AntiFront": false,
+          "Distance": 4.94,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "NoEntityTrace": {
+          "Pickaxe Only": true,
+          "No Sword": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "NoFall": {
+          "Mode": "Rubberband",
+          "FallDistance": "Calc",
+          "FallDistanceVal": 10,
+          "PowderSnowBucket": false,
+          "VulcanYmotion": -3.0,
+          "VulcanFallDistance": 4.0,
+          "WaterBucket": true,
+          "Retrieve": false,
+          "EnderPearl": false,
+          "Cobweb": false,
+          "TwistingVines": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "NoInteract": {
+          "OnlyAura": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "NoJumpDelay": {
+          "Delay": 1,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "NoPacketException": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "NoPush": {
+          "Blocks": true,
+          "Players": true,
+          "Liquids": false,
+          "FishingHook": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "NoRender": {
+          "noGuiBackGround": true,
+          "NoHandSwing": false,
+          "Auto": false,
+          "HurtCam": true,
+          "Potions": false,
+          "XP": false,
+          "Arrows": false,
+          "Eggs": false,
+          "Guardian": false,
+          "Vignette": false,
+          "Portal": false,
+          "Explosions": true,
+          "CampFire": false,
+          "Fireworks": true,
+          "Armor": false,
+          "Bossbar": true,
+          "FireOverlay": true,
+          "WaterOverlay": true,
+          "BlockOverlay": true,
+          "Nausea": true,
+          "Blindness": true,
+          "Fog": true,
+          "Darkness": true,
+          "Items": false,
+          "Crystals": false,
+          "FireEntity": false,
+          "BreakParticles": false,
+          "AntiTitle": false,
+          "AntiPlayerCollision": false,
+          "NoScoreBoard": false,
+          "SignText": false,
+          "NoWeather": false,
+          "NoArmorStands": false,
+          "SpawnerEntity": false,
+          "HotbarItemName": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "NoServerRotate": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "NoServerSlot": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "NoSlow": {
+          "Mode": "StrictNCP",
+          "MainHand": true,
+          "Selection": "better.tree.setting.impl.SettingGroup@778b165b",
+          "Food": true,
+          "Projectiles": true,
+          "Shield": true,
+          "SoulSand": true,
+          "Honey": true,
+          "Slime": true,
+          "Ice": true,
+          "SweetBerryBush": true,
+          "Sneak": false,
+          "Crawl": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "NoWaterCollision": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Notifications": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "Nuker": {
+          "SelectedBlocks": [
+            "diamond_ore",
+            "diamond_block",
+            "gold_ore",
+            "gold_block",
+            "deepslate_diamond_ore",
+            "emerald_ore",
+            "deepslate_emerald_ore",
+            "emerald_block",
+            "stone",
+            "deepslate_gold_ore",
+            "iron_ore",
+            "deepslate_iron_ore",
+            "coal_ore",
+            "deepslate_coal_ore",
+            "nether_gold_ore",
+            "lapis_ore",
+            "deepslate_lapis_ore",
+            "redstone_ore",
+            "deepslate_redstone_ore",
+            "deepslate_copper_ore",
+            "nether_quartz_ore",
+            "copper_ore",
+            "spore_blossom",
+            "heavy_core",
+            "lapis_block",
+            "iron_block",
+            "redstone_block",
+            "quartz_block",
+            "coal_block",
+            "netherite_block",
+            "grass_block",
+            "dirt",
+            "spruce_log",
+            "dark_oak_log",
+            "raw_gold_block",
+            "ancient_debris",
+            "cyan_glazed_terracotta",
+            "gray_glazed_terracotta",
+            "white_glazed_terracotta",
+            "lime_glazed_terracotta",
+            "light_blue_glazed_terracotta",
+            "pink_glazed_terracotta",
+            "slime_block",
+            "wheat",
+            "beacon",
+            "obsidian",
+            "green_wool",
+            "lime_wool",
+            "white_wool",
+            "oak_planks",
+            "crafting_table",
+            "sand",
+            "granite",
+            "polished_granite",
+            "polished_diorite",
+            "andesite",
+            "jungle_log",
+            "birch_log",
+            "respawn_anchor",
+            "wheat_seeds",
+            "potatoes",
+            "carrots",
+            "magenta_bed",
+            "light_blue_bed",
+            "yellow_bed",
+            "lime_bed",
+            "pink_bed",
+            "gray_bed",
+            "light_gray_bed",
+            "cyan_bed",
+            "purple_bed",
+            "blue_bed",
+            "black_bed",
+            "red_bed",
+            "green_bed",
+            "brown_bed",
+            "orange_bed",
+            "white_bed",
+            "cobblestone",
+            "diorite",
+            "potato",
+            "carrot",
+            "red_glazed_terracotta",
+            "end_stone",
+            "deepslate",
+            "cobbled_deepslate",
+            "tuff",
+            "beetroots",
+            "beetroot",
+            "lime_concrete",
+            "oak_wood",
+            "spruce_wood",
+            "birch_wood",
+            "jungle_wood",
+            "acacia_wood",
+            "cherry_wood",
+            "dark_oak_wood",
+            "mangrove_wood",
+            "barrier",
+            "red_concrete_powder",
+            "blue_concrete_powder",
+            "light_blue_concrete_powder",
+            "black_concrete_powder",
+            "mud",
+            "tnt",
+            "moss_block",
+            "fern",
+            "short_grass",
+            "dead_bush",
+            "seagrass",
+            "purple_glazed_terracotta",
+            "potted_lily_of_the_valley",
+            "light_gray_glazed_terracotta",
+            "blue_glazed_terracotta",
+            "brown_glazed_terracotta",
+            "green_glazed_terracotta",
+            "black_glazed_terracotta",
+            "yellow_glazed_terracotta",
+            "magenta_glazed_terracotta",
+            "orange_glazed_terracotta",
+            "gray_concrete",
+            "honey_block",
+            "poppy",
+            "dandelion",
+            "polished_andesite",
+            "coarse_dirt",
+            "podzol",
+            "spruce_planks",
+            "birch_planks",
+            "jungle_planks",
+            "acacia_planks",
+            "cherry_planks",
+            "dark_oak_planks",
+            "oak_log",
+            "acacia_log",
+            "cherry_log",
+            "netherrack",
+            "nether_portal",
+            "nether_bricks",
+            "nether_brick_stairs",
+            "nether_brick_fence",
+            "nether_wart",
+            "red_nether_brick_stairs",
+            "red_nether_brick_slab",
+            "red_nether_bricks",
+            "nether_wart_block",
+            "nether_brick_slab",
+            "sponge",
+            "wet_sponge",
+            "hay_block",
+            "light_blue_concrete",
+            "red_concrete",
+            "shulker_box",
+            "white_shulker_box",
+            "orange_shulker_box",
+            "magenta_shulker_box",
+            "yellow_shulker_box",
+            "light_blue_shulker_box",
+            "lime_shulker_box",
+            "pink_shulker_box",
+            "gray_shulker_box",
+            "light_gray_shulker_box",
+            "cyan_shulker_box",
+            "purple_shulker_box",
+            "blue_shulker_box",
+            "brown_shulker_box",
+            "green_shulker_box",
+            "red_shulker_box",
+            "black_shulker_box",
+            "chest",
+            "trapped_chest",
+            "soul_sand",
+            "soul_soil",
+            "snow",
+            "bamboo_block",
+            "cut_sandstone",
+            "quartz",
+            "air",
+            "chorus_plant",
+            "oak_leaves",
+            "birch_leaves",
+            "spruce_leaves",
+            "jungle_leaves",
+            "acacia_leaves",
+            "tuff_slab",
+            "tuff_stairs",
+            "polished_tuff",
+            "raw_copper_block",
+            "raw_iron_block",
+            "redstone_wire",
+            "redstone_torch",
+            "repeater",
+            "redstone_lamp",
+            "comparator",
+            "redstone",
+            "crying_obsidian",
+            "sea_lantern",
+            "lantern",
+            "soul_lantern",
+            "hopper",
+            "ender_chest",
+            "brewing_stand",
+            "vault",
+            "trial_spawner",
+            "blackstone",
+            "blackstone_stairs",
+            "blackstone_wall",
+            "blackstone_slab",
+            "polished_blackstone",
+            "polished_blackstone_bricks",
+            "cracked_polished_blackstone_bricks",
+            "chiseled_polished_blackstone",
+            "polished_blackstone_brick_slab",
+            "polished_blackstone_brick_stairs",
+            "gilded_blackstone",
+            "polished_blackstone_stairs",
+            "polished_blackstone_brick_wall",
+            "polished_blackstone_slab",
+            "polished_blackstone_pressure_plate",
+            "polished_blackstone_button",
+            "polished_blackstone_wall",
+            "gravel",
+            "suspicious_gravel",
+            "beetroot_seeds",
+            "pink_petals",
+            "pink_tulip",
+            "rose_bush",
+            "wither_rose",
+            "emerald",
+            "stripped_dark_oak_log",
+            "baked_potato",
+            "poisonous_potato",
+            "lilac",
+            "peony",
+            "brown_mushroom",
+            "red_mushroom",
+            "warped_fungus",
+            "crimson_fungus",
+            "tall_grass",
+            "mangrove_leaves",
+            "azalea_leaves",
+            "flowering_azalea_leaves",
+            "dark_oak_leaves",
+            "cherry_leaves",
+            "crimson_roots",
+            "warped_roots",
+            "lily_pad",
+            "red_wool",
+            "pink_wool",
+            "light_gray_concrete_powder",
+            "pointed_dripstone",
+            "chiseled_quartz_block",
+            "quartz_pillar",
+            "quartz_stairs",
+            "smooth_quartz",
+            "smooth_quartz_stairs",
+            "smooth_quartz_slab",
+            "mangrove_log",
+            "stripped_spruce_log",
+            "stripped_birch_log",
+            "stripped_jungle_log",
+            "stripped_oak_log",
+            "stripped_cherry_log",
+            "stripped_acacia_log",
+            "stripped_mangrove_log",
+            "stripped_oak_wood",
+            "cyan_concrete_powder",
+            "cracked_stone_bricks",
+            "netherite_scrap",
+            "stone_bricks",
+            "snow_block",
+            "tall_seagrass",
+            "potted_fern",
+            "large_fern",
+            "magma_block",
+            "water",
+            "mangrove_propagule",
+            "dark_oak_sapling",
+            "cherry_sapling",
+            "acacia_sapling",
+            "jungle_sapling",
+            "birch_sapling",
+            "oak_sapling",
+            "bamboo_mosaic",
+            "bamboo_planks",
+            "mangrove_planks",
+            "spruce_sapling",
+            "bedrock",
+            "lava",
+            "suspicious_sand",
+            "red_sand",
+            "mangrove_roots",
+            "muddy_mangrove_roots",
+            "stripped_bamboo_block",
+            "stripped_spruce_wood",
+            "stripped_birch_wood",
+            "stripped_jungle_wood",
+            "stripped_acacia_wood",
+            "stripped_cherry_wood",
+            "stripped_dark_oak_wood",
+            "stripped_mangrove_wood",
+            "glass",
+            "dispenser",
+            "sandstone",
+            "chiseled_sandstone",
+            "note_block",
+            "powered_rail",
+            "detector_rail",
+            "sticky_piston",
+            "cobweb",
+            "piston",
+            "piston_head",
+            "orange_wool",
+            "magenta_wool",
+            "light_blue_wool",
+            "yellow_wool",
+            "gray_wool",
+            "light_gray_wool",
+            "cyan_wool",
+            "purple_wool",
+            "blue_wool",
+            "brown_wool",
+            "black_wool",
+            "moving_piston",
+            "torchflower",
+            "blue_orchid",
+            "allium",
+            "azure_bluet",
+            "red_tulip",
+            "orange_tulip",
+            "white_tulip",
+            "oxeye_daisy",
+            "cornflower",
+            "lily_of_the_valley",
+            "bricks",
+            "bookshelf",
+            "chiseled_bookshelf",
+            "mossy_cobblestone",
+            "torch",
+            "fire",
+            "soul_fire",
+            "spawner",
+            "oak_stairs",
+            "farmland",
+            "furnace",
+            "acacia_sign",
+            "cherry_sign",
+            "jungle_sign",
+            "dark_oak_sign",
+            "mangrove_sign",
+            "bamboo_sign",
+            "oak_door",
+            "ladder",
+            "rail",
+            "cobblestone_stairs",
+            "oak_hanging_sign",
+            "spruce_hanging_sign",
+            "birch_hanging_sign",
+            "acacia_hanging_sign",
+            "cherry_hanging_sign",
+            "jungle_hanging_sign",
+            "dark_oak_hanging_sign",
+            "crimson_hanging_sign",
+            "warped_hanging_sign",
+            "mangrove_hanging_sign",
+            "bamboo_hanging_sign",
+            "lever",
+            "stone_pressure_plate",
+            "iron_door",
+            "oak_pressure_plate",
+            "spruce_pressure_plate",
+            "birch_pressure_plate",
+            "jungle_pressure_plate",
+            "acacia_pressure_plate",
+            "cherry_pressure_plate",
+            "dark_oak_pressure_plate",
+            "mangrove_pressure_plate",
+            "bamboo_pressure_plate",
+            "stone_button",
+            "ice",
+            "cactus",
+            "clay",
+            "sugar_cane",
+            "jukebox",
+            "oak_fence",
+            "basalt",
+            "polished_basalt",
+            "soul_torch",
+            "glowstone",
+            "carved_pumpkin",
+            "jack_o_lantern",
+            "cake",
+            "white_stained_glass",
+            "orange_stained_glass",
+            "magenta_stained_glass",
+            "light_blue_stained_glass",
+            "yellow_stained_glass",
+            "lime_stained_glass",
+            "pink_stained_glass",
+            "gray_stained_glass",
+            "light_gray_stained_glass",
+            "cyan_stained_glass",
+            "purple_stained_glass",
+            "blue_stained_glass",
+            "brown_stained_glass",
+            "green_stained_glass",
+            "red_stained_glass",
+            "black_stained_glass",
+            "oak_trapdoor",
+            "spruce_trapdoor",
+            "birch_trapdoor",
+            "jungle_trapdoor",
+            "acacia_trapdoor",
+            "cherry_trapdoor",
+            "dark_oak_trapdoor",
+            "mangrove_trapdoor",
+            "bamboo_trapdoor",
+            "mossy_stone_bricks",
+            "chiseled_stone_bricks",
+            "packed_mud",
+            "mud_bricks",
+            "infested_stone",
+            "infested_cobblestone",
+            "infested_stone_bricks",
+            "infested_mossy_stone_bricks",
+            "infested_cracked_stone_bricks",
+            "infested_chiseled_stone_bricks",
+            "brown_mushroom_block",
+            "red_mushroom_block",
+            "mushroom_stem",
+            "iron_bars",
+            "chain",
+            "glass_pane",
+            "pumpkin",
+            "melon",
+            "attached_pumpkin_stem",
+            "attached_melon_stem",
+            "pumpkin_stem",
+            "melon_stem",
+            "vine",
+            "glow_lichen",
+            "brick_stairs",
+            "oak_fence_gate",
+            "stone_brick_stairs",
+            "mud_brick_stairs",
+            "mycelium",
+            "enchanting_table",
+            "cauldron",
+            "water_cauldron",
+            "lava_cauldron",
+            "powder_snow_cauldron",
+            "end_portal",
+            "end_portal_frame",
+            "dragon_egg",
+            "cocoa",
+            "sandstone_stairs",
+            "tripwire_hook",
+            "tripwire",
+            "spruce_stairs",
+            "birch_stairs",
+            "jungle_stairs",
+            "command_block",
+            "cobblestone_wall",
+            "mossy_cobblestone_wall",
+            "flower_pot",
+            "potted_torchflower",
+            "potted_oak_sapling",
+            "potted_spruce_sapling",
+            "potted_birch_sapling",
+            "potted_jungle_sapling",
+            "potted_acacia_sapling",
+            "potted_cherry_sapling",
+            "potted_dark_oak_sapling",
+            "potted_mangrove_propagule",
+            "potted_dandelion",
+            "potted_poppy",
+            "potted_blue_orchid",
+            "potted_allium",
+            "potted_azure_bluet",
+            "potted_red_tulip",
+            "potted_white_tulip",
+            "potted_orange_tulip",
+            "potted_pink_tulip",
+            "potted_oxeye_daisy",
+            "potted_cornflower",
+            "potted_wither_rose",
+            "potted_red_mushroom",
+            "potted_brown_mushroom",
+            "potted_dead_bush",
+            "potted_cactus",
+            "oak_button",
+            "spruce_button",
+            "birch_button",
+            "jungle_button",
+            "acacia_button",
+            "cherry_button",
+            "dark_oak_button",
+            "mangrove_button",
+            "bamboo_button",
+            "skeleton_skull",
+            "wither_skeleton_skull",
+            "zombie_head",
+            "player_head",
+            "creeper_head",
+            "dragon_head",
+            "piglin_head",
+            "anvil",
+            "chipped_anvil",
+            "damaged_anvil",
+            "light_weighted_pressure_plate",
+            "heavy_weighted_pressure_plate",
+            "daylight_detector",
+            "activator_rail",
+            "dropper",
+            "white_terracotta",
+            "orange_terracotta",
+            "magenta_terracotta",
+            "light_blue_terracotta",
+            "yellow_terracotta",
+            "lime_terracotta",
+            "pink_terracotta",
+            "gray_terracotta",
+            "light_gray_terracotta",
+            "cyan_terracotta",
+            "purple_terracotta",
+            "blue_terracotta",
+            "brown_terracotta",
+            "green_terracotta",
+            "red_terracotta",
+            "black_terracotta",
+            "white_stained_glass_pane",
+            "orange_stained_glass_pane",
+            "magenta_stained_glass_pane",
+            "light_blue_stained_glass_pane",
+            "yellow_stained_glass_pane",
+            "lime_stained_glass_pane",
+            "pink_stained_glass_pane",
+            "gray_stained_glass_pane",
+            "light_gray_stained_glass_pane",
+            "cyan_stained_glass_pane",
+            "purple_stained_glass_pane",
+            "blue_stained_glass_pane",
+            "brown_stained_glass_pane",
+            "green_stained_glass_pane",
+            "red_stained_glass_pane",
+            "black_stained_glass_pane",
+            "acacia_stairs",
+            "cherry_stairs",
+            "bamboo_stairs",
+            "mangrove_stairs",
+            "dark_oak_stairs",
+            "bamboo_mosaic_stairs",
+            "light",
+            "iron_trapdoor",
+            "prismarine",
+            "prismarine_bricks",
+            "dark_prismarine",
+            "prismarine_stairs",
+            "prismarine_brick_stairs",
+            "dark_prismarine_stairs",
+            "prismarine_slab",
+            "prismarine_brick_slab",
+            "dark_prismarine_slab",
+            "white_carpet",
+            "orange_carpet",
+            "magenta_carpet",
+            "light_blue_carpet",
+            "yellow_carpet",
+            "lime_carpet",
+            "pink_carpet",
+            "gray_carpet",
+            "light_gray_carpet",
+            "cyan_carpet",
+            "purple_carpet",
+            "blue_carpet",
+            "brown_carpet",
+            "green_carpet",
+            "red_carpet",
+            "black_carpet",
+            "terracotta",
+            "packed_ice",
+            "sunflower",
+            "white_banner",
+            "orange_banner",
+            "magenta_banner",
+            "light_blue_banner",
+            "yellow_banner",
+            "lime_banner",
+            "pink_banner",
+            "gray_banner",
+            "light_gray_banner",
+            "cyan_banner",
+            "purple_banner",
+            "blue_banner",
+            "brown_banner",
+            "green_banner",
+            "red_banner",
+            "black_banner",
+            "red_sandstone",
+            "chiseled_red_sandstone",
+            "cut_red_sandstone",
+            "red_sandstone_stairs",
+            "oak_slab",
+            "spruce_slab",
+            "birch_slab",
+            "jungle_slab",
+            "acacia_slab",
+            "cherry_slab",
+            "dark_oak_slab",
+            "mangrove_slab",
+            "bamboo_slab",
+            "bamboo_mosaic_slab",
+            "stone_slab",
+            "smooth_stone_slab",
+            "sandstone_slab",
+            "cut_sandstone_slab",
+            "petrified_oak_slab",
+            "cobblestone_slab",
+            "brick_slab",
+            "stone_brick_slab",
+            "mud_brick_slab",
+            "quartz_slab",
+            "red_sandstone_slab",
+            "cut_red_sandstone_slab",
+            "purpur_slab",
+            "smooth_stone",
+            "smooth_sandstone",
+            "smooth_red_sandstone",
+            "spruce_fence_gate",
+            "birch_fence_gate",
+            "jungle_fence_gate",
+            "acacia_fence_gate",
+            "cherry_fence_gate",
+            "dark_oak_fence_gate",
+            "mangrove_fence_gate",
+            "bamboo_fence_gate",
+            "spruce_fence",
+            "birch_fence",
+            "jungle_fence",
+            "acacia_fence",
+            "cherry_fence",
+            "dark_oak_fence",
+            "mangrove_fence",
+            "bamboo_fence",
+            "spruce_door",
+            "birch_door",
+            "jungle_door",
+            "acacia_door",
+            "cherry_door",
+            "dark_oak_door",
+            "mangrove_door",
+            "bamboo_door",
+            "end_rod",
+            "chorus_flower",
+            "purpur_block",
+            "purpur_pillar",
+            "purpur_stairs",
+            "end_stone_bricks",
+            "torchflower_crop",
+            "pitcher_crop",
+            "pitcher_plant",
+            "dirt_path",
+            "end_gateway",
+            "repeating_command_block",
+            "chain_command_block",
+            "frosted_ice",
+            "bone_block",
+            "structure_void",
+            "observer",
+            "white_concrete",
+            "orange_concrete",
+            "yellow_concrete",
+            "magenta_concrete",
+            "pink_concrete",
+            "light_gray_concrete",
+            "cyan_concrete",
+            "purple_concrete",
+            "blue_concrete",
+            "brown_concrete",
+            "green_concrete",
+            "black_concrete",
+            "white_concrete_powder",
+            "orange_concrete_powder",
+            "magenta_concrete_powder",
+            "yellow_concrete_powder",
+            "lime_concrete_powder",
+            "pink_concrete_powder",
+            "gray_concrete_powder",
+            "purple_concrete_powder",
+            "brown_concrete_powder",
+            "green_concrete_powder",
+            "kelp",
+            "kelp_plant",
+            "dried_kelp_block",
+            "turtle_egg",
+            "sniffer_egg",
+            "dead_tube_coral_block",
+            "dead_brain_coral_block",
+            "dead_bubble_coral_block",
+            "dead_fire_coral_block",
+            "dead_horn_coral_block",
+            "tube_coral_block",
+            "brain_coral_block",
+            "bubble_coral_block",
+            "fire_coral_block",
+            "horn_coral_block",
+            "dead_tube_coral",
+            "dead_brain_coral",
+            "dead_bubble_coral",
+            "dead_fire_coral",
+            "dead_horn_coral",
+            "tube_coral",
+            "brain_coral",
+            "bubble_coral",
+            "fire_coral",
+            "horn_coral",
+            "dead_tube_coral_fan",
+            "dead_brain_coral_fan",
+            "dead_bubble_coral_fan",
+            "dead_fire_coral_fan",
+            "dead_horn_coral_fan",
+            "tube_coral_fan",
+            "brain_coral_fan",
+            "bubble_coral_fan",
+            "fire_coral_fan",
+            "dead_tube_coral_wall_fan",
+            "horn_coral_fan",
+            "dead_bubble_coral_wall_fan",
+            "dead_brain_coral_wall_fan",
+            "dead_fire_coral_wall_fan",
+            "dead_horn_coral_wall_fan",
+            "tube_coral_wall_fan",
+            "brain_coral_wall_fan",
+            "fire_coral_wall_fan",
+            "bubble_coral_wall_fan",
+            "horn_coral_wall_fan",
+            "sea_pickle",
+            "blue_ice",
+            "conduit",
+            "bamboo_sapling",
+            "potted_bamboo",
+            "bamboo",
+            "cave_air",
+            "bubble_column",
+            "void_air",
+            "polished_granite_stairs",
+            "mossy_stone_brick_stairs",
+            "smooth_red_sandstone_stairs",
+            "polished_diorite_stairs",
+            "mossy_cobblestone_stairs",
+            "end_stone_brick_stairs",
+            "stone_stairs",
+            "smooth_sandstone_stairs",
+            "granite_stairs",
+            "andesite_stairs",
+            "polished_andesite_stairs",
+            "diorite_stairs",
+            "polished_granite_slab",
+            "smooth_red_sandstone_slab",
+            "mossy_stone_brick_slab",
+            "polished_diorite_slab",
+            "mossy_cobblestone_slab",
+            "end_stone_brick_slab",
+            "smooth_sandstone_slab",
+            "granite_slab",
+            "andesite_slab",
+            "polished_andesite_slab",
+            "diorite_slab",
+            "brick_wall",
+            "prismarine_wall",
+            "red_sandstone_wall",
+            "mossy_stone_brick_wall",
+            "granite_wall",
+            "stone_brick_wall",
+            "mud_brick_wall",
+            "nether_brick_wall",
+            "andesite_wall",
+            "red_nether_brick_wall",
+            "sandstone_wall",
+            "end_stone_brick_wall",
+            "diorite_wall",
+            "scaffolding",
+            "loom",
+            "barrel",
+            "smoker",
+            "blast_furnace",
+            "cartography_table",
+            "fletching_table",
+            "grindstone",
+            "lectern",
+            "smithing_table",
+            "stonecutter",
+            "bell",
+            "campfire",
+            "soul_campfire",
+            "sweet_berry_bush",
+            "warped_stem",
+            "stripped_warped_stem",
+            "warped_hyphae",
+            "stripped_warped_hyphae",
+            "warped_nylium",
+            "warped_wart_block",
+            "nether_sprouts",
+            "crimson_stem",
+            "stripped_crimson_stem",
+            "crimson_hyphae",
+            "stripped_crimson_hyphae",
+            "crimson_nylium",
+            "shroomlight",
+            "weeping_vines",
+            "weeping_vines_plant",
+            "twisting_vines",
+            "twisting_vines_plant",
+            "crimson_planks",
+            "warped_planks",
+            "crimson_slab",
+            "warped_slab",
+            "crimson_pressure_plate",
+            "warped_pressure_plate",
+            "crimson_fence",
+            "warped_fence",
+            "crimson_trapdoor",
+            "warped_trapdoor",
+            "crimson_fence_gate",
+            "warped_fence_gate",
+            "crimson_stairs",
+            "warped_stairs",
+            "crimson_button",
+            "warped_button",
+            "crimson_door",
+            "warped_door",
+            "warped_sign",
+            "crimson_sign",
+            "structure_block",
+            "jigsaw",
+            "composter",
+            "target",
+            "bee_nest",
+            "beehive",
+            "honeycomb_block",
+            "potted_crimson_fungus",
+            "potted_warped_fungus",
+            "potted_crimson_roots",
+            "potted_warped_roots",
+            "lodestone",
+            "chiseled_nether_bricks",
+            "cracked_nether_bricks",
+            "quartz_bricks",
+            "candle",
+            "white_candle",
+            "orange_candle",
+            "magenta_candle",
+            "light_blue_candle",
+            "yellow_candle",
+            "lime_candle",
+            "pink_candle",
+            "gray_candle",
+            "light_gray_candle",
+            "cyan_candle",
+            "purple_candle",
+            "blue_candle",
+            "brown_candle",
+            "green_candle",
+            "red_candle",
+            "black_candle",
+            "candle_cake",
+            "white_candle_cake",
+            "orange_candle_cake",
+            "magenta_candle_cake",
+            "light_blue_candle_cake",
+            "yellow_candle_cake",
+            "lime_candle_cake",
+            "pink_candle_cake",
+            "gray_candle_cake",
+            "light_gray_candle_cake",
+            "cyan_candle_cake",
+            "purple_candle_cake",
+            "blue_candle_cake",
+            "brown_candle_cake",
+            "green_candle_cake",
+            "red_candle_cake",
+            "amethyst_block",
+            "black_candle_cake",
+            "budding_amethyst",
+            "amethyst_cluster",
+            "large_amethyst_bud",
+            "medium_amethyst_bud",
+            "small_amethyst_bud",
+            "tuff_wall",
+            "polished_tuff_slab",
+            "polished_tuff_stairs",
+            "polished_tuff_wall",
+            "chiseled_tuff",
+            "tuff_bricks",
+            "tuff_brick_slab",
+            "tuff_brick_stairs",
+            "tuff_brick_wall",
+            "chiseled_tuff_bricks",
+            "calcite",
+            "tinted_glass",
+            "powder_snow",
+            "sculk_sensor",
+            "calibrated_sculk_sensor",
+            "sculk",
+            "sculk_vein",
+            "sculk_catalyst",
+            "sculk_shrieker",
+            "copper_block",
+            "exposed_copper",
+            "weathered_copper",
+            "oxidized_copper",
+            "oxidized_cut_copper",
+            "weathered_cut_copper",
+            "exposed_cut_copper",
+            "cut_copper",
+            "oxidized_chiseled_copper",
+            "weathered_chiseled_copper",
+            "exposed_chiseled_copper",
+            "chiseled_copper",
+            "waxed_oxidized_chiseled_copper",
+            "waxed_weathered_chiseled_copper",
+            "waxed_exposed_chiseled_copper",
+            "waxed_chiseled_copper",
+            "oxidized_cut_copper_stairs",
+            "weathered_cut_copper_stairs",
+            "exposed_cut_copper_stairs",
+            "cut_copper_stairs",
+            "oxidized_cut_copper_slab",
+            "weathered_cut_copper_slab",
+            "exposed_cut_copper_slab",
+            "cut_copper_slab",
+            "waxed_copper_block",
+            "waxed_weathered_copper",
+            "waxed_exposed_copper",
+            "waxed_oxidized_copper",
+            "waxed_oxidized_cut_copper",
+            "waxed_weathered_cut_copper",
+            "waxed_exposed_cut_copper",
+            "waxed_cut_copper",
+            "waxed_oxidized_cut_copper_stairs",
+            "waxed_weathered_cut_copper_stairs",
+            "waxed_exposed_cut_copper_stairs",
+            "waxed_cut_copper_stairs",
+            "waxed_oxidized_cut_copper_slab",
+            "waxed_weathered_cut_copper_slab",
+            "waxed_exposed_cut_copper_slab",
+            "waxed_cut_copper_slab",
+            "copper_door",
+            "exposed_copper_door",
+            "oxidized_copper_door",
+            "weathered_copper_door",
+            "waxed_copper_door",
+            "waxed_exposed_copper_door",
+            "waxed_oxidized_copper_door",
+            "waxed_weathered_copper_door",
+            "copper_trapdoor",
+            "exposed_copper_trapdoor",
+            "oxidized_copper_trapdoor",
+            "weathered_copper_trapdoor",
+            "waxed_copper_trapdoor",
+            "waxed_exposed_copper_trapdoor",
+            "waxed_oxidized_copper_trapdoor",
+            "copper_grate",
+            "waxed_weathered_copper_trapdoor",
+            "exposed_copper_grate",
+            "weathered_copper_grate",
+            "oxidized_copper_grate",
+            "waxed_copper_grate",
+            "waxed_exposed_copper_grate",
+            "waxed_weathered_copper_grate",
+            "waxed_oxidized_copper_grate",
+            "copper_bulb",
+            "exposed_copper_bulb",
+            "weathered_copper_bulb",
+            "oxidized_copper_bulb",
+            "waxed_copper_bulb",
+            "waxed_exposed_copper_bulb",
+            "waxed_weathered_copper_bulb",
+            "waxed_oxidized_copper_bulb",
+            "lightning_rod",
+            "dripstone_block",
+            "cave_vines",
+            "cave_vines_plant",
+            "azalea",
+            "flowering_azalea",
+            "moss_carpet",
+            "big_dripleaf",
+            "big_dripleaf_stem",
+            "small_dripleaf",
+            "hanging_roots",
+            "rooted_dirt",
+            "cobbled_deepslate_stairs",
+            "cobbled_deepslate_slab",
+            "cobbled_deepslate_wall",
+            "polished_deepslate",
+            "polished_deepslate_stairs",
+            "polished_deepslate_slab",
+            "polished_deepslate_wall",
+            "deepslate_tiles",
+            "deepslate_tile_stairs",
+            "deepslate_tile_slab",
+            "deepslate_tile_wall",
+            "deepslate_bricks",
+            "deepslate_brick_stairs",
+            "deepslate_brick_slab",
+            "deepslate_brick_wall",
+            "chiseled_deepslate",
+            "cracked_deepslate_bricks",
+            "cracked_deepslate_tiles",
+            "infested_deepslate",
+            "smooth_basalt",
+            "potted_azalea_bush",
+            "potted_flowering_azalea_bush",
+            "ochre_froglight",
+            "verdant_froglight",
+            "pearlescent_froglight",
+            "frogspawn",
+            "reinforced_deepslate",
+            "decorated_pot",
+            "crafter",
+            "saddle",
+            "chest_minecart",
+            "minecart",
+            "furnace_minecart",
+            "hopper_minecart",
+            "tnt_minecart",
+            "carrot_on_a_stick",
+            "elytra",
+            "warped_fungus_on_a_stick",
+            "oak_boat",
+            "oak_chest_boat",
+            "spruce_boat",
+            "spruce_chest_boat",
+            "birch_boat",
+            "birch_chest_boat",
+            "jungle_boat",
+            "jungle_chest_boat",
+            "acacia_chest_boat",
+            "acacia_boat",
+            "cherry_boat",
+            "cherry_chest_boat",
+            "dark_oak_boat",
+            "dark_oak_chest_boat",
+            "bamboo_raft",
+            "mangrove_boat",
+            "mangrove_chest_boat",
+            "bamboo_chest_raft",
+            "turtle_helmet",
+            "armadillo_scute",
+            "wolf_armor",
+            "turtle_scute",
+            "flint_and_steel",
+            "bowl",
+            "apple",
+            "bow",
+            "charcoal",
+            "coal",
+            "arrow",
+            "diamond",
+            "spruce_sign",
+            "oak_sign",
+            "birch_sign",
+            "painting",
+            "amethyst_shard",
+            "item_frame",
+            "glow_item_frame",
+            "prismarine_shard",
+            "prismarine_crystals",
+            "command_block_minecart",
+            "armor_stand",
+            "flower_banner_pattern",
+            "creeper_banner_pattern",
+            "skull_banner_pattern",
+            "mojang_banner_pattern",
+            "globe_banner_pattern",
+            "piglin_banner_pattern",
+            "flow_banner_pattern",
+            "guster_banner_pattern",
+            "goat_horn"
+          ],
+          "NukerMode": "Default",
+          "UseSilentRotation": true,
+          "MaxPacketsPerTick": 5,
+          "Delay": 72,
+          "FieldOfViewLimit": 180.0,
+          "AutoForwardMovement": false,
+          "Blocks": "All",
+          "NoBack": false,
+          "Reach": 3.0,
+          "IgnoreWalls": false,
+          "FlattenTerrain": false,
+          "Creative": false,
+          "AvoidLava": false,
+          "Range": 2.35,
+          "HighlightColorMode": "Sync",
+          "HighlightColor": [
+            575714484,
+            false
+          ],
+          "AntiCheatBypass": "None",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "OptifineCapes": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PVPResources": {
+          "Position": [
+            0.6151846,
+            0.9142012
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PacketCanceler": {
+          "ClickSlotC2SPacket": false,
+          "PositionAndOnGround": false,
+          "OnGroundOnly": false,
+          "LookAndOnGround": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PacketFly": {
+          "Mode": "Limit",
+          "Type": "Up",
+          "Phase": "Full",
+          "Limit": false,
+          "AntiKick": true,
+          "Interval": 4,
+          "UpInterval": 20,
+          "anticKickOffset": 0.04,
+          "Speed": 0.0,
+          "UpSpeed": 0.062,
+          "Timer": 1.0,
+          "IncreaseTicks": 13,
+          "Factor": 1.0,
+          "Offset": 1337.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Parkour": {
+          "JumpFactor": 0.01,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Particles": {
+          "FireFlies": true,
+          "FFCount": 20,
+          "FFSize": 0.1,
+          "Mode": "amongus",
+          "Count": 160,
+          "Size": 0.88,
+          "ColorMode": "Custom",
+          "Color": [
+            -1,
+            false
+          ],
+          "Physics": "Fly",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "PearlBait": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PearlChaser": {
+          "StopMotion": false,
+          "LegitStop": false,
+          "PauseAura": false,
+          "OnlyOnGround": false,
+          "NoMove": false,
+          "OnlyTarget": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PearlTracker": {
+          "Scale": 1.0,
+          "Color": [
+            -1,
+            false
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PerfectDelay": {
+          "Horse": "Legit",
+          "Bow": true,
+          "Crossbow": true,
+          "Trident": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Phase": {
+          "Mode": "Vanilla",
+          "Silent": false,
+          "WaitBreak": true,
+          "OnlyOnGround": false,
+          "AutoDisable": false,
+          "BreakTimeout": 4,
+          "PearlTimeout": 0,
+          "Pitch": 80.0,
+          "Strict": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Ping": {
+          "Position": [
+            0.571875,
+            0.9556213
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PingSpoof": {
+          "Min Ping": 100.0,
+          "Max Ping": 600.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PopChams": {
+          "Mode": "Textured",
+          "SecondLayer": true,
+          "Color": [
+            -10489359,
+            false
+          ],
+          "YSpeed": 0,
+          "AlphaSpeed": 5,
+          "RotationSpeed": 0.25,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "PortalGodMode": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PortalInventory": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "PotionHud": {
+          "EffectColor": [
+            -1,
+            false
+          ],
+          "UsePotionColor": true,
+          "Position": [
+            0.9145305,
+            0.1728351
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "Radar": {
+          "Mode": "Rect",
+          "ColorMode": "Sync",
+          "Size": 67,
+          "Color": [
+            -15724528,
+            false
+          ],
+          "PlayerColor": [
+            -989855744,
+            false
+          ],
+          "Component1": "Name",
+          "Component2": "Hp",
+          "Component3": "Ping",
+          "Component4": "None",
+          "Component5": "None",
+          "Color1": "§f",
+          "Color2": "§f",
+          "Color3": "§f",
+          "Color4": "§f",
+          "Position": [
+            0.92807215,
+            0.008400216
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "Reach": {
+          "BlocksRange": 3.0,
+          "EntityRange": 3.0,
+          "Creative": false,
+          "CBlocksRange": 5.0,
+          "CEntityRange": 5.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Reset Cfg": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Rotations": {
+          "ClientLook": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "SafeWalk": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Scaffold": {
+          "Mode": "StrictNCP",
+          "PlaceMode": "Normal",
+          "Switch": "Normal",
+          "Rotate": false,
+          "LockY": false,
+          "OnlyNotHoldingSpace": true,
+          "AutoJump": false,
+          "WorkWhileSneaking": false,
+          "Tower": false,
+          "SafeWalk": false,
+          "Render": true,
+          "RenderMode": "All",
+          "AnimationMode": "Fade",
+          "RenderFillColor": [
+            -1895453,
+            false
+          ],
+          "RenderLineColor": [
+            -6974059,
+            false
+          ],
+          "RenderLineWidth": 2,
+          "Keybind": [
+            71,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Second Gui": {
+          "OnColor1": [
+            -12124043,
+            false
+          ],
+          "OnColor2": [
+            -14679712,
+            false
+          ],
+          "ScrollSpeed": 1.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "SelfTrap": {
+          "Place Timing": "Vanilla",
+          "Block/Tick": 6,
+          "Delay/Place": 0,
+          "Trap Mode": "Full",
+          "NoFly": false,
+          "Range": 7.0,
+          "Interact": "AirPlace",
+          "Place Mode": "Normal",
+          "Rotate": "Grim",
+          "Swing": false,
+          "Crystal Breaker": false,
+          "CrystalAge": 0,
+          "Break Delay": 100,
+          "Remove": false,
+          "Break Mode": "Normal",
+          "Anti Weakness": false,
+          "BlocksSelect": [
+            "cobblestone",
+            "oak_planks"
+          ],
+          "Pause": "better.tree.setting.impl.SettingGroup@6705eb9b",
+          "On Eat": false,
+          "On Break": false,
+          "Render": true,
+          "Render Mode": "All",
+          "Animation Mode": "Fade",
+          "Fill Color": [
+            -16777216,
+            false
+          ],
+          "Line Color": [
+            -6974059,
+            false
+          ],
+          "Line Width": 2,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Shaders": {
+          "Select": "better.tree.setting.impl.SettingGroup@ad194f9",
+          "Hands": true,
+          "Players": false,
+          "Self": true,
+          "Friends": false,
+          "Crystals": false,
+          "Creatures": false,
+          "Monsters": false,
+          "Ambients": false,
+          "Others": false,
+          "Mode": "Snow",
+          "HandsMode": "Snow",
+          "MaxRange": 16,
+          "GradientFactor": 3.8955553,
+          "Gradient": 3.171111,
+          "GradientAlpha": 182,
+          "LineWidth": 20,
+          "Quality": 3,
+          "SmokeOctaves": 15,
+          "FillAlpha": 119,
+          "SmokeGlow": true,
+          "Colors": "better.tree.setting.impl.SettingGroup@25476236",
+          "Outline": [
+            -1999372033,
+            false
+          ],
+          "SmokeOutline": [
+            -2013200640,
+            false
+          ],
+          "SmokeOutline2": [
+            -2013200640,
+            false
+          ],
+          "Fill": [
+            -2011210788,
+            false
+          ],
+          "SmokeFill": [
+            -2013200385,
+            false
+          ],
+          "SmokeFil2": [
+            -1996499968,
+            false
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "SkinChanger": {
+          "Skin": "MEVINGGS",
+          "OnlySelf": true,
+          "Friends": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "SoundESP": {
+          "Scale": 1.0,
+          "Color": [
+            -2147483648,
+            false
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "SoundFX": {
+          "Volume": 100,
+          "OnOffSound": "Pack4",
+          "HitSound": "RIFK",
+          "CritSound": false,
+          "ScrollSound": "KeyBoard",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "Speed": {
+          "Mode": "MatrixDamage",
+          "Use Timer": true,
+          "PauseInLiquids": false,
+          "PauseWhileSneaking": false,
+          "HurtTime": 0,
+          "BoostFactor": 2.0,
+          "AllowOffGround": true,
+          "ShiftTicks": 0,
+          "FireSlot": 1,
+          "Delay": 8,
+          "Strict": false,
+          "TimerSpeed": 1.088,
+          "ArmorStands": false,
+          "IgnoreOther": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "SpeedMine": {
+          "Mode": "Packet",
+          "DoubleMine": false,
+          "StartMode": "StartAbort",
+          "SwitchMode": "Normal",
+          "SwapDelay": 0,
+          "Factor": 0.5,
+          "Speed": 0.5,
+          "Range": 4.2444444,
+          "Rotate": true,
+          "PlaceCrystal": false,
+          "ResetOnSwitch": false,
+          "BreakAttempts": 10,
+          "Pause On Eat": false,
+          "ClientRemove": true,
+          "Packets": "better.tree.setting.impl.SettingGroup@3b2bc04c",
+          "Stop": true,
+          "Abort": true,
+          "Start": true,
+          "Stop2": true,
+          "Render": true,
+          "Smooth": true,
+          "Render Mode": "Shrink",
+          "Start Line Color": [
+            -922812416,
+            false
+          ],
+          "End Line Color": [
+            -936378624,
+            false
+          ],
+          "Line Width": 2,
+          "Start Fill Color": [
+            2029977600,
+            false
+          ],
+          "End Fill Color": [
+            2016411392,
+            false
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Speedometer": {
+          "BPS": true,
+          "Average": false,
+          "Position": [
+            0.0046870974,
+            0.11669378
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "StaffBoard": {
+          "Position": [
+            0.19873284,
+            0.06296514
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "StashLogger": {
+          "Sound": true,
+          "SaveToFile": true,
+          "MinChests": 5,
+          "MinShulkers": 0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "StaticHitboxes": {
+          "OnlyPlayers": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "StealWater": {
+          "Range": 5,
+          "Rotate": "None",
+          "Render Mode": "Fade",
+          "Render Fill Color": [
+            1442840575,
+            false
+          ],
+          "Render Line Color": [
+            0,
+            false
+          ],
+          "Render Line Width": 1,
+          "Effect Duration (MS)": 500,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "StorageEsp": {
+          "Outline": true,
+          "Fill": true,
+          "Chest": true,
+          "Trapped Chest": true,
+          "Dispenser": false,
+          "Shulker": true,
+          "Ender Chest": true,
+          "Furnace": false,
+          "Hopper": false,
+          "Barrel": false,
+          "Minecart": false,
+          "ItemFrame": false,
+          "ChestColor": [
+            -2013200640,
+            false
+          ],
+          "TrappedChestColor": [
+            -2013200640,
+            false
+          ],
+          "ShulkerColor": [
+            -2013200640,
+            false
+          ],
+          "EChestColor": [
+            -2013200640,
+            false
+          ],
+          "FrameColor": [
+            -2013200640,
+            false
+          ],
+          "ShulkFrameColor": [
+            -2013200640,
+            false
+          ],
+          "FurnaceColor": [
+            -2013200640,
+            false
+          ],
+          "HopperColor": [
+            -2013200640,
+            false
+          ],
+          "DispenserColor": [
+            -2013200640,
+            false
+          ],
+          "BarrelColor": [
+            -2013200640,
+            false
+          ],
+          "MinecartColor": [
+            -2013200640,
+            false
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Strafe": {
+          "Boost": "None",
+          "speed": 1.3,
+          "Reduction": 6.0,
+          "MaxVelocity": 0.8,
+          "Sunrise": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Surround": {
+          "Blocks/Place": 6,
+          "Delay/Place": 1,
+          "Center": "Disabled",
+          "Auto Disable": "better.tree.setting.impl.SettingGroup@73babd81",
+          "On Y Change": true,
+          "On Tp": "None",
+          "On Death": false,
+          "Range": 3.98,
+          "Interact": "Strict",
+          "Place Mode": "Packet",
+          "Rotate": "None",
+          "Swing": false,
+          "Crystal Breaker": false,
+          "CrystalAge": 0,
+          "Break Delay": 100,
+          "Remove": false,
+          "Break Mode": "Normal",
+          "Anti Weakness": false,
+          "BlocksSelect": [],
+          "Pause": "better.tree.setting.impl.SettingGroup@754a9953",
+          "On Eat": false,
+          "On Break": false,
+          "Render": true,
+          "Render Mode": "All",
+          "Animation Mode": "Fade",
+          "Fill Color": [
+            -6974059,
+            false
+          ],
+          "Line Color": [
+            -6974059,
+            false
+          ],
+          "Line Width": 2,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TPS": {
+          "ExtraTPS": false,
+          "Position": [
+            0.014581588,
+            0.32995957
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TapeMouse": {
+          "Delay": 600,
+          "Randomize": false,
+          "Value": 600,
+          "Mode": "Left",
+          "Legit": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TargetHalo": {
+          "TargetOnly": true,
+          "DefaultColor": [
+            -20561,
+            false
+          ],
+          "EnemyInRangeColor": [
+            -16711936,
+            false
+          ],
+          "OtherPlayerColor": [
+            -16776961,
+            false
+          ],
+          "Glow": true,
+          "GlowIntensity": 0.8,
+          "CirclePoints": 64,
+          "LineWidth": 2.0,
+          "HudColorMode": false,
+          "ColorOffset": 10,
+          "IgnoreJump": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TargetHelper": {
+          "AutoJump": true,
+          "Distance": 1.3,
+          "CircleSpeed": 0.15,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TargetHud": {
+          "BallonBlur": 10,
+          "AnimationX": 0,
+          "AnimationY": 0,
+          "HP Mode": "HP",
+          "Image": "Anime",
+          "Mode": "Veltragossa",
+          "FunTimeHP": false,
+          "Absorption": true,
+          "Position": [
+            0.5671111,
+            0.729201
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "TargetStrafe": {
+          "Jump": true,
+          "Distance": 1.3,
+          "Boost": "None",
+          "speed": 1.3,
+          "Reduction": 6.0,
+          "MaxVelocity": 0.8,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Timer": {
+          "Mode": "Normal",
+          "Old": false,
+          "Speed": 1.69,
+          "ShiftTicks": 12,
+          "BoostKey": [
+            87,
+            false
+          ],
+          "OnFlag": "Reset",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TimerIndicator": {
+          "Position": [
+            0.92395806,
+            0.11669378
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ToolSaver": {
+          "Save %": 10,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Tooltips": {
+          "MiddleClickOpen": true,
+          "Storage": true,
+          "Maps": true,
+          "ShulkerRegear": true,
+          "RegearShift": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "TotemAnimation": {
+          "Mode": "FadeOut",
+          "Speed": 40,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "TotemCounter": {
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TotemPopCounter": {
+          "Notification": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "TpsSync": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Tracers": {
+          "Height": 0.0,
+          "Color": [
+            -1812459055,
+            false
+          ],
+          "Friends": [
+            -1827152291,
+            false
+          ],
+          "TargetColor": [
+            -1827161601,
+            false
+          ],
+          "BedWarsMode": false,
+          "Targets": "better.tree.setting.impl.SettingGroup@6b82031e",
+          "Players": true,
+          "Mobs": true,
+          "Animals": false,
+          "Villagers": false,
+          "Slimes": false,
+          "Hostiles": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Tracker": {
+          "1v1-Only": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Trails": {
+          "Xp": true,
+          "Pearls": "Particles",
+          "Arrows": "Particles",
+          "Players": "Trail",
+          "OnlySelf": true,
+          "Color": [
+            -8388353,
+            false
+          ],
+          "Down": 0.41,
+          "Height": 0.6,
+          "Speed": 3,
+          "Mode": "Stars",
+          "Physics": "Fall",
+          "Scale": 3,
+          "Amount": 2,
+          "LifeTime": 2,
+          "ColorMode": "Sync",
+          "Color2": [
+            575714484,
+            false
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Trajectories": {
+          "ColorMode": "Custom",
+          "Color": [
+            -16711681,
+            false
+          ],
+          "LandedColorMode": "Custom",
+          "LandedColor": [
+            -16711681,
+            false
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TridentBoost": {
+          "Mode": "Motion",
+          "Factor": 1.0,
+          "Cooldown": 10,
+          "AnyWeather": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TridentFly": {
+          "Mode": "GrimAC",
+          "SpeedOnMultiplier": 1.05,
+          "Timer": 1.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TridentReady": {
+          "ReadyColor": [
+            -16711936,
+            false
+          ],
+          "NotReadyColor": [
+            -256,
+            false
+          ],
+          "OffsetX": 0,
+          "OffsetY": 20,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TriggerBot": {
+          "Pause If Eating": true,
+          "Only Criticals": false,
+          "Space Only": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "VehicleBoost": {
+          "HorizontalSpeed": 0.1,
+          "VerticalSpeed": 1.5,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Velocity": {
+          "OnlyDuringAura": false,
+          "PauseInLiquids": true,
+          "Explosions": true,
+          "PauseOnFlag": true,
+          "PauseOnFire": false,
+          "Mode": "Cancel",
+          "Vertical": 0.0,
+          "JumpMode": "Jump",
+          "Horizontal": 0.0,
+          "Motion": 0.42,
+          "SmartFail": true,
+          "FailRate": 0.3,
+          "FailJumpRate": 0.25,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "ViewLock": {
+          "LockCurrent": true,
+          "Pitch": true,
+          "PitchValue": 0.0,
+          "Yaw": true,
+          "YawValue": 90.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ViewModel": {
+          "SyncHands": false,
+          "MainHand": "better.tree.setting.impl.SettingGroup@e4e8782",
+          "positionMainX": 0.4,
+          "positionMainY": -0.11,
+          "positionMainZ": 0.11,
+          "ScaleMain": 1.0,
+          "Rotation": "better.tree.setting.impl.SettingGroup@28be757f",
+          "rotationMainX": -127.95,
+          "rotationMainY": 19.52,
+          "rotationMainZ": 166.99,
+          "Animate": "better.tree.setting.impl.SettingGroup@99ff13a",
+          "animateMainX": false,
+          "animateMainY": false,
+          "animateMainZ": false,
+          "speedAnimateMain": 1.0,
+          "OffHand": "better.tree.setting.impl.SettingGroup@727e89e4",
+          "positionOffX": 0.36,
+          "positionOffY": -0.04,
+          "positionOffZ": -0.04,
+          "ScaleOff": 1.0,
+          "RotationOff": "better.tree.setting.impl.SettingGroup@8f672be",
+          "rotationOffX": 0.0,
+          "rotationOffY": 89.0,
+          "rotationOffZ": 0.0,
+          "AnimateOff": "better.tree.setting.impl.SettingGroup@5338eb52",
+          "animateOffX": false,
+          "animateOffY": true,
+          "animateOffZ": false,
+          "speedAnimateOff": 1.0,
+          "Eat": "better.tree.setting.impl.SettingGroup@2558c62e",
+          "EatX": 1.0,
+          "EatY": 1.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "VisualRange": {
+          "Leave": true,
+          "Enter": true,
+          "Friends": true,
+          "Sound": true,
+          "Mode": "Notification",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "WaterMark": {
+          "Mode": "Big",
+          "Background": false,
+          "Background Color": [
+            1677721600,
+            false
+          ],
+          "Text Color": [
+            -1,
+            false
+          ],
+          "Logo color": [
+            -1,
+            false
+          ],
+          "Random Text": false,
+          "Position": [
+            0.0,
+            0.0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "WaterSpeed": {
+          "Mode": "Intave",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "WayPoints": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "WebHud": {
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "WindHop": {
+          "AutoJump": false,
+          "JumpPrediction": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Windows": {
+          "macroPos": [
+            0.08693548,
+            0.45697173
+          ],
+          "configPos": [
+            0.32606888,
+            0.10269111
+          ],
+          "friendPos": [
+            0.4,
+            0.4
+          ],
+          "waypointPos": [
+            0.45,
+            0.45
+          ],
+          "proxyPos": [
+            0.5,
+            0.5
+          ],
+          "nicknamePos": [
+            0.06369728,
+            0.09406269
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "XCarry": {
+          "OnlyInventory": false,
+          "AutoClose": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "XRay": {
+          "Plugin": "New",
+          "WallHack": true,
+          "OreDeobf": false,
+          "Fast": false,
+          "Delay": 25,
+          "Radius": 5,
+          "Up": 5,
+          "Down": 5,
+          "Netherite": false,
+          "Diamond ": false,
+          "Gold": false,
+          "Iron": false,
+          "Emerald": false,
+          "Redstone": false,
+          "Lapis": false,
+          "Coal": false,
+          "Quartz": false,
+          "Water": false,
+          "Lava": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "self-destruct": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      }
+    ]
+  }
+]
