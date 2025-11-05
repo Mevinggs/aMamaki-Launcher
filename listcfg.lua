@@ -6,5 +6,4 @@ BravoHvH:4.11.21:11.25r:Mevinggs
 SzefyPl:5.11.07:49.25r:Kriper
 catpvp:5.11.?:?.25r:minhdayne_05
 krystalmcL:5.11.14:16.25r:Harf
-vnpvp:14.10.04:53.25r:minhdayne_05
 inkmcpvp:5.11.19:24:Mevinggs
