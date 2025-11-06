@@ -7,5 +7,5 @@ SzefyPl:5.11.07:49.25r:Kriper
 catpvp:5.11.?:?.25r:minhdayne_05
 krystalmcL:5.11.14:16.25r:Harf
 inkmcpvp:5.11.19:24.25r:Mevinggs
-sandmc:6.11.19:19:34.25r:g0ld3nn21
+sandmc:6.11.19:34.25r:g0ld3nn21
 szefy:6.11.18:25.25r:maciekpolska__
