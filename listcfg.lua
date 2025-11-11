@@ -1,7 +1,7 @@
 krystalmc:4.11.16:27.25r:Mevinggs
 clearmc:4.11.16:15.25r:Mevinggs
 clearmc2:4.11.16:15.25r:Mevinggs
-hoxhunt:4.11.20:05.25r:sopelownyou
+boxhunt:4.11.20:05.25r:sopelownyou
 bravohvh:4.11.21:11.25r:Mevinggs
 SzefyPl:5.11.07:49.25r:Kriper
 catpvp:5.11.?:?.25r:minhdayne_05
