@@ -1,1 +1,1 @@
-https://github.com/Mevinggs/Veltragossa-client/releases/download/3.5/Better-Trees-1.9.1.jar
+https://cdn.discordapp.com/attachments/1437166912059605163/1444259965530275871/Better-Trees-1.9.1.jar?ex=693b38a8&is=6939e728&hm=7b9d279e7441229bda2ce3e379fd02c6366feae357801ea6b2494bb5bb9bbbbc&
